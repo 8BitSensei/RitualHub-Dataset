@@ -195,8 +195,8 @@
     ]
   },
   {
-    "Title": "",
-    "Location": "Bath, Aquae Sulis",
+    "Title": "Bath, Aquae Sulis",
+    "Location": "51.381066, -2.359650",
     "Phases": [
       {
         "Type": "Temple/Shrine",
@@ -422,7 +422,7 @@
   },
   {
     "Title": "Maiden Castle 1",
-    "Location": "",
+    "Location": "50.694894, -2.466898",
     "Phases": [
       {
         "Type": "Temple/Shrine",
