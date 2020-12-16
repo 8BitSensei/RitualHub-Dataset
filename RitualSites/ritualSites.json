@@ -1,0 +1,19 @@
+{
+    "description": "This is a file containing data on ritual sites of Britain & Ireland, currently holding dummy data.",
+    "name": "Ritual Sites of Britain & Ireland",
+    "sites": [
+      { "site": "Maiden Castle 1", "start": -50, "end": 123, "location": "Dorset", "latLong": "", "description": "Maiden Castle in Dorset is one of the largest and most complex Iron Age hillforts in Europe - the size of 50 football pitches. Its huge multiple ramparts, mostly built in the 1st century BC, once protected hundreds of residents. When it was first built, the gleaming white chalk ramparts would have towered over the surrounding landscape. Excavations here have revealed much about Maiden Castle's history, such as a Neolithic enclosure from about 3500 BC and a Roman temple built in the 4th century AD. The archaeologists also found evidence of a late Iron Age cemetery, where many of those buried had suffered horrific injuries.", "bibliography": [
+        "1999, Wheeler",
+        "2002, Bill & Bob"
+      ]},
+      { "site": "Maiden Castle 2", "start": -50, "end": 123, "location": "Dorset", "latLong": "", "description": "Maiden Castle in Dorset is one of the largest and most complex Iron Age hillforts in Europe - the size of 50 football pitches. Its huge multiple ramparts, mostly built in the 1st century BC, once protected hundreds of residents. When it was first built, the gleaming white chalk ramparts would have towered over the surrounding landscape. Excavations here have revealed much about Maiden Castle's history, such as a Neolithic enclosure from about 3500 BC and a Roman temple built in the 4th century AD. The archaeologists also found evidence of a late Iron Age cemetery, where many of those buried had suffered horrific injuries.", "bibliography": [
+        "1999, Wheeler",
+        "2002, Bill & Bob"
+      ]},
+      { "site": "Maiden Castle 3", "start": -50, "end": 123, "location": "Dorset", "latLong": "", "description": "Maiden Castle in Dorset is one of the largest and most complex Iron Age hillforts in Europe - the size of 50 football pitches. Its huge multiple ramparts, mostly built in the 1st century BC, once protected hundreds of residents. When it was first built, the gleaming white chalk ramparts would have towered over the surrounding landscape. Excavations here have revealed much about Maiden Castle's history, such as a Neolithic enclosure from about 3500 BC and a Roman temple built in the 4th century AD. The archaeologists also found evidence of a late Iron Age cemetery, where many of those buried had suffered horrific injuries.", "bibliography": [
+        "1999, Wheeler",
+        "2002, Bill & Bob"
+      ]}
+    ]
+  }
+  
