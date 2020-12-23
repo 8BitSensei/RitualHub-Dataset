@@ -1,67 +1,972 @@
-{
-    "description": "This is a file containing data on ritual sites of Britain & Ireland, currently holding dummy data.",
-    "name": "Ritual Sites of Britain & Ireland",
-    "sites": [
-      { "site": "Maiden Castle 1", "start": -50, "end": 123, "location": "Dorset", "latLong": "", "description": "Maiden Castle in Dorset is one of the largest and most complex Iron Age hillforts in Europe - the size of 50 football pitches. Its huge multiple ramparts, mostly built in the 1st century BC, once protected hundreds of residents. When it was first built, the gleaming white chalk ramparts would have towered over the surrounding landscape. Excavations here have revealed much about Maiden Castle's history, such as a Neolithic enclosure from about 3500 BC and a Roman temple built in the 4th century AD. The archaeologists also found evidence of a late Iron Age cemetery, where many of those buried had suffered horrific injuries.", "bibliography": [
-        "1999, Wheeler",
-        "2002, Bill & Bob"
-      ]},
-      { "site": "Maiden Castle 2", "start": -50, "end": 123, "location": "Dorset", "latLong": "", "description": "Maiden Castle in Dorset is one of the largest and most complex Iron Age hillforts in Europe - the size of 50 football pitches. Its huge multiple ramparts, mostly built in the 1st century BC, once protected hundreds of residents. When it was first built, the gleaming white chalk ramparts would have towered over the surrounding landscape. Excavations here have revealed much about Maiden Castle's history, such as a Neolithic enclosure from about 3500 BC and a Roman temple built in the 4th century AD. The archaeologists also found evidence of a late Iron Age cemetery, where many of those buried had suffered horrific injuries.", "bibliography": [
-        "1999, Wheeler",
-        "2002, Bill & Bob"
-      ]},
-      { "site": "Maiden Castle 3", "start": -50, "end": 123, "location": "Dorset", "latLong": "", "description": "Maiden Castle in Dorset is one of the largest and most complex Iron Age hillforts in Europe - the size of 50 football pitches. Its huge multiple ramparts, mostly built in the 1st century BC, once protected hundreds of residents. When it was first built, the gleaming white chalk ramparts would have towered over the surrounding landscape. Excavations here have revealed much about Maiden Castle's history, such as a Neolithic enclosure from about 3500 BC and a Roman temple built in the 4th century AD. The archaeologists also found evidence of a late Iron Age cemetery, where many of those buried had suffered horrific injuries.", "bibliography": [
-        "1999, Wheeler",
-        "2002, Bill & Bob"
-      ]},
-      { "site": "Maiden Castle 4", "start": -50, "end": 123, "location": "Dorset", "latLong": "", "description": "Maiden Castle in Dorset is one of the largest and most complex Iron Age hillforts in Europe - the size of 50 football pitches. Its huge multiple ramparts, mostly built in the 1st century BC, once protected hundreds of residents. When it was first built, the gleaming white chalk ramparts would have towered over the surrounding landscape. Excavations here have revealed much about Maiden Castle's history, such as a Neolithic enclosure from about 3500 BC and a Roman temple built in the 4th century AD. The archaeologists also found evidence of a late Iron Age cemetery, where many of those buried had suffered horrific injuries.", "bibliography": [
-        "1999, Wheeler",
-        "2002, Bill & Bob"
-      ]},
-      { "site": "Maiden Castle 5", "start": -50, "end": 123, "location": "Dorset", "latLong": "", "description": "Maiden Castle in Dorset is one of the largest and most complex Iron Age hillforts in Europe - the size of 50 football pitches. Its huge multiple ramparts, mostly built in the 1st century BC, once protected hundreds of residents. When it was first built, the gleaming white chalk ramparts would have towered over the surrounding landscape. Excavations here have revealed much about Maiden Castle's history, such as a Neolithic enclosure from about 3500 BC and a Roman temple built in the 4th century AD. The archaeologists also found evidence of a late Iron Age cemetery, where many of those buried had suffered horrific injuries.", "bibliography": [
-        "1999, Wheeler",
-        "2002, Bill & Bob"
-      ]},
-      { "site": "Maiden Castle 6", "start": -50, "end": 123, "location": "Dorset", "latLong": "", "description": "Maiden Castle in Dorset is one of the largest and most complex Iron Age hillforts in Europe - the size of 50 football pitches. Its huge multiple ramparts, mostly built in the 1st century BC, once protected hundreds of residents. When it was first built, the gleaming white chalk ramparts would have towered over the surrounding landscape. Excavations here have revealed much about Maiden Castle's history, such as a Neolithic enclosure from about 3500 BC and a Roman temple built in the 4th century AD. The archaeologists also found evidence of a late Iron Age cemetery, where many of those buried had suffered horrific injuries.", "bibliography": [
-        "1999, Wheeler",
-        "2002, Bill & Bob"
-      ]},
-      { "site": "Maiden Castle 7", "start": -50, "end": 123, "location": "Dorset", "latLong": "", "description": "Maiden Castle in Dorset is one of the largest and most complex Iron Age hillforts in Europe - the size of 50 football pitches. Its huge multiple ramparts, mostly built in the 1st century BC, once protected hundreds of residents. When it was first built, the gleaming white chalk ramparts would have towered over the surrounding landscape. Excavations here have revealed much about Maiden Castle's history, such as a Neolithic enclosure from about 3500 BC and a Roman temple built in the 4th century AD. The archaeologists also found evidence of a late Iron Age cemetery, where many of those buried had suffered horrific injuries.", "bibliography": [
-        "1999, Wheeler",
-        "2002, Bill & Bob"
-      ]},
-      { "site": "Maiden Castle 8", "start": -50, "end": 123, "location": "Dorset", "latLong": "", "description": "Maiden Castle in Dorset is one of the largest and most complex Iron Age hillforts in Europe - the size of 50 football pitches. Its huge multiple ramparts, mostly built in the 1st century BC, once protected hundreds of residents. When it was first built, the gleaming white chalk ramparts would have towered over the surrounding landscape. Excavations here have revealed much about Maiden Castle's history, such as a Neolithic enclosure from about 3500 BC and a Roman temple built in the 4th century AD. The archaeologists also found evidence of a late Iron Age cemetery, where many of those buried had suffered horrific injuries.", "bibliography": [
-        "1999, Wheeler",
-        "2002, Bill & Bob"
-      ]},
-      { "site": "Maiden Castle 9", "start": -50, "end": 123, "location": "Dorset", "latLong": "", "description": "Maiden Castle in Dorset is one of the largest and most complex Iron Age hillforts in Europe - the size of 50 football pitches. Its huge multiple ramparts, mostly built in the 1st century BC, once protected hundreds of residents. When it was first built, the gleaming white chalk ramparts would have towered over the surrounding landscape. Excavations here have revealed much about Maiden Castle's history, such as a Neolithic enclosure from about 3500 BC and a Roman temple built in the 4th century AD. The archaeologists also found evidence of a late Iron Age cemetery, where many of those buried had suffered horrific injuries.", "bibliography": [
-        "1999, Wheeler",
-        "2002, Bill & Bob"
-      ]},
-      { "site": "Maiden Castle 10", "start": -50, "end": 123, "location": "Dorset", "latLong": "", "description": "Maiden Castle in Dorset is one of the largest and most complex Iron Age hillforts in Europe - the size of 50 football pitches. Its huge multiple ramparts, mostly built in the 1st century BC, once protected hundreds of residents. When it was first built, the gleaming white chalk ramparts would have towered over the surrounding landscape. Excavations here have revealed much about Maiden Castle's history, such as a Neolithic enclosure from about 3500 BC and a Roman temple built in the 4th century AD. The archaeologists also found evidence of a late Iron Age cemetery, where many of those buried had suffered horrific injuries.", "bibliography": [
-        "1999, Wheeler",
-        "2002, Bill & Bob"
-      ]},
-      { "site": "Maiden Castle 11", "start": -50, "end": 123, "location": "Dorset", "latLong": "", "description": "Maiden Castle in Dorset is one of the largest and most complex Iron Age hillforts in Europe - the size of 50 football pitches. Its huge multiple ramparts, mostly built in the 1st century BC, once protected hundreds of residents. When it was first built, the gleaming white chalk ramparts would have towered over the surrounding landscape. Excavations here have revealed much about Maiden Castle's history, such as a Neolithic enclosure from about 3500 BC and a Roman temple built in the 4th century AD. The archaeologists also found evidence of a late Iron Age cemetery, where many of those buried had suffered horrific injuries.", "bibliography": [
-        "1999, Wheeler",
-        "2002, Bill & Bob"
-      ]},
-      { "site": "Maiden Castle 12", "start": -50, "end": 123, "location": "Dorset", "latLong": "", "description": "Maiden Castle in Dorset is one of the largest and most complex Iron Age hillforts in Europe - the size of 50 football pitches. Its huge multiple ramparts, mostly built in the 1st century BC, once protected hundreds of residents. When it was first built, the gleaming white chalk ramparts would have towered over the surrounding landscape. Excavations here have revealed much about Maiden Castle's history, such as a Neolithic enclosure from about 3500 BC and a Roman temple built in the 4th century AD. The archaeologists also found evidence of a late Iron Age cemetery, where many of those buried had suffered horrific injuries.", "bibliography": [
-        "1999, Wheeler",
-        "2002, Bill & Bob"
-      ]},
-      { "site": "Maiden Castle 13", "start": -50, "end": 123, "location": "Dorset", "latLong": "", "description": "Maiden Castle in Dorset is one of the largest and most complex Iron Age hillforts in Europe - the size of 50 football pitches. Its huge multiple ramparts, mostly built in the 1st century BC, once protected hundreds of residents. When it was first built, the gleaming white chalk ramparts would have towered over the surrounding landscape. Excavations here have revealed much about Maiden Castle's history, such as a Neolithic enclosure from about 3500 BC and a Roman temple built in the 4th century AD. The archaeologists also found evidence of a late Iron Age cemetery, where many of those buried had suffered horrific injuries.", "bibliography": [
-        "1999, Wheeler",
-        "2002, Bill & Bob"
-      ]},
-      { "site": "Maiden Castle 14", "start": -50, "end": 123, "location": "Dorset", "latLong": "", "description": "Maiden Castle in Dorset is one of the largest and most complex Iron Age hillforts in Europe - the size of 50 football pitches. Its huge multiple ramparts, mostly built in the 1st century BC, once protected hundreds of residents. When it was first built, the gleaming white chalk ramparts would have towered over the surrounding landscape. Excavations here have revealed much about Maiden Castle's history, such as a Neolithic enclosure from about 3500 BC and a Roman temple built in the 4th century AD. The archaeologists also found evidence of a late Iron Age cemetery, where many of those buried had suffered horrific injuries.", "bibliography": [
-        "1999, Wheeler",
-        "2002, Bill & Bob"
-      ]},
-      { "site": "Maiden Castle 15", "start": -50, "end": 123, "location": "Dorset", "latLong": "", "description": "Maiden Castle in Dorset is one of the largest and most complex Iron Age hillforts in Europe - the size of 50 football pitches. Its huge multiple ramparts, mostly built in the 1st century BC, once protected hundreds of residents. When it was first built, the gleaming white chalk ramparts would have towered over the surrounding landscape. Excavations here have revealed much about Maiden Castle's history, such as a Neolithic enclosure from about 3500 BC and a Roman temple built in the 4th century AD. The archaeologists also found evidence of a late Iron Age cemetery, where many of those buried had suffered horrific injuries.", "bibliography": [
-        "1999, Wheeler",
-        "2002, Bill & Bob"
-      ]}
-    ]
+[
+  {
+   "site": "All Cannings Cross",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "Ten Harkel, L.,Franconi, T.,Gosden, C. (2017). Fields, Ritual and Religion: Holistic Approaches to the Rural Landscape in Long-Term Perspective (c.1500 BC–AD 1086). ."
+   ]
+  },
+  {
+   "site": "Aquae Sulis",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "Downes, R. (1909). The Goddess Sul and Heathen Rites near Bath. ."
+   ]
+  },
+  {
+   "site": "Arthur's O'on",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": []
+  },
+  {
+   "site": "Ashill",
+   "start": "",
+   "end": "",
+   "location": " Norfolk",
+   "description": "",
+   "bibliography": [
+    "Ten Harkel, L.,Franconi, T.,Gosden, C. (2017). Fields, Ritual and Religion: Holistic Approaches to the Rural Landscape in Long-Term Perspective (c.1500 BC–AD 1086). .",
+    "Isserlin, undefined. (1994). undefined. .",
+    "Gregory, undefined. (1977). undefined. .",
+    "Barton, undefined. (1879). undefined. ."
+   ]
+  },
+  {
+   "site": "Ashwell",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    " (2018). Dea Senuna: Treasure, Cult and Ritual at Ashwell, Hertfordshire. .",
+    " (2018). Animal Bone. ."
+   ]
+  },
+  {
+   "site": "Ballymount",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": []
+  },
+  {
+   "site": "Benwell Roman Temple",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": []
+  },
+  {
+   "site": "Bottisham",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    " (undefined). MONUMENT NO. 1151638. ."
+   ]
+  },
+  {
+   "site": "Brean Down",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "ApSimon, undefined. (1964). undefined. ."
+   ]
+  },
+  {
+   "site": "Brigstock",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "Greenfield, undefined. (1963). undefined. .",
+    "Taylor, undefined. (1957). undefined. .",
+    "Green, undefined. (1976). undefined. ."
+   ]
+  },
+  {
+   "site": "Buckingham",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    " (undefined). MONUMENT NO. 343002. ."
+   ]
+  },
+  {
+   "site": "Caernarfon Mithraeum",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": []
+  },
+  {
+   "site": "Caesar's Camp",
+   "start": "",
+   "end": "",
+   "location": " Heathrow",
+   "description": "",
+   "bibliography": []
+  },
+  {
+   "site": "Caistor St.Edmund",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": []
+  },
+  {
+   "site": "Camerton",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    " (undefined). CAMERTON ROMAN TOWN. ."
+   ]
+  },
+  {
+   "site": "Carrawburgh",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": []
+  },
+  {
+   "site": "Carrowmably",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": []
+  },
+  {
+   "site": "Cashel",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": []
+  },
+  {
+   "site": "Cavenham Heath",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "Esposito, A. (2019). Performing the Sacra: Priestly Roles and Their Organisation in Roman Britain. ."
+   ]
+  },
+  {
+   "site": "Chanctonbury Ring",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "Bedwin, undefined. (1980). undefined. .",
+    "Woodward, undefined. (1992). undefined. ."
+   ]
+  },
+  {
+   "site": "Charlcombe",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    " (undefined). MONUMENT NO. 205009. ."
+   ]
+  },
+  {
+   "site": "Chedworth Villa",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": []
+  },
+  {
+   "site": "Chelmsford",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": []
+  },
+  {
+   "site": "Cottenham",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "Walker, undefined. (2014). undefined. ."
+   ]
+  },
+  {
+   "site": "Cressing",
+   "start": "",
+   "end": "",
+   "location": " Essex",
+   "description": "",
+   "bibliography": [
+    " (20/12/2020). Boudicca revolt: Essex dig reveals 'evidence of Roman reprisals'. ."
+   ]
+  },
+  {
+   "site": "Croft Ambrey Hillfort",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "Stanford, undefined. (1985). undefined. ."
+   ]
+  },
+  {
+   "site": "Dún Ailinne",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "Johnston, S.,Crabtree, P.,Campana, D. (2014). Performance, place and power at Dún Ailinne, a ceremonial site of the Irish Iron Age. ."
+   ]
+  },
+  {
+   "site": "Egleton",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "Brown, J. (2016). A middle Iron Age enclosure and a Romano-British shrine complex near Egleton, Rutland. ."
+   ]
+  },
+  {
+   "site": "Farley Heath",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "Bird, undefined. (2007). undefined. .",
+    "Bird, undefined. (1996). undefined. .",
+    " (1958). undefined. .",
+    "Goodchild, undefined. (1938). undefined. ."
+   ]
+  },
+  {
+   "site": "Felmingham Hall",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "Esposito, A. (2019). Performing the Sacra: Priestly Roles and Their Organisation in Roman Britain. .",
+    "Walker, undefined. (2014). undefined. .",
+    "Blythe, undefined. (1844). undefined. .",
+    "Gilbert, undefined. (1978). undefined. ."
+   ]
+  },
+  {
+   "site": "Folly Lane",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "Niblett, R. (1984). THE EXCAVATION OF A CEREMONIAL SITE AT FOLLY LANE, VERULAMIUM. ."
+   ]
+  },
+  {
+   "site": "Forteviot",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "Maldonado, A. (undefined). Barrows and the conversion of the landscape at Forteviot, Perthshire. .",
+    "Campbell, E.,Maldonado, A.,Gondek, M. (undefined). An Early Medieval andprehistoric nexus:the Strathearn Environsand Royal Forteviot project. ."
+   ]
+  },
+  {
+   "site": "Frampton Villa",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "Perring, D. (2003). 'Gnosticism' in Fourth-Century Britain: The Frampton Mosaics Reconsidered. .",
+    "Perring, D. (2003). Deconstructing the Frampton Pavements: Gnostic Dialectic in Roman Britain?. ."
+   ]
+  },
+  {
+   "site": "Freestone Hill",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "Raftery, B. (2014). Freestone Hill, Co. Kilkenny: An Iron Age Hillfort and Bronze Age Cairn: Excavation. ."
+   ]
+  },
+  {
+   "site": "Frilford",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "Kamash, Z.,Gosden, C.,Lock, G. (2010). Continuity and Religious Practices in Roman Britain: The Case of the Rural Religious Complex at Marcham/Frilford, Oxfordshire. ."
+   ]
+  },
+  {
+   "site": "Giant's Grave long barrow",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "Annable, undefined. (undefined). undefined. ."
+   ]
+  },
+  {
+   "site": "Giant's Ring",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": []
+  },
+  {
+   "site": "Godmanchester",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    " (1986). Pagan Gods and Shrines of the Roman Empire. ."
+   ]
+  },
+  {
+   "site": "Gosebeck's Farm",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": []
+  },
+  {
+   "site": "Great Chesterford",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": []
+  },
+  {
+   "site": "Haddenham",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "Evans, undefined. (1985). undefined. ."
+   ]
+  },
+  {
+   "site": "Hallaton",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": []
+  },
+  {
+   "site": "Hambledon",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    " (undefined). MONUMENT NO. 1200986. ."
+   ]
+  },
+  {
+   "site": "Hawkhill",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "Rees, A. (undefined). The excavation of an Iron Age unenclosed settlement and an Early Historic multiple burial and metalworking area at Hawkhill, Lunan Bay, Angus. ."
+   ]
+  },
+  {
+   "site": "Hayling Island",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "King, A. (1979). The Hayling Island temple: third interim report on the excavation of the Iron Age and Roman temple 1976-78. .",
+    "Katrina-Kay Sepulveda, A. (2016). An Archaeology of Temple Assemblages and Social Practice in Early South-Eastern Roman Britain. .",
+    "King, A. (2014). The Pre-Roman Cult Site at Hayling Island, Hampshire, GB: The Problem of Characterizing an Anonymous Deity. .",
+    "Downey, R.,King, A.,Soffe, G. (1978). The Roman temple on Hayling Island. .",
+    " (2020). Sacred Landscapes in Antiquity: Creation, Manipulation, Transformation. .",
+    "Creighton, J. (2000). Coins and Power in Late Iron Age Britain. .",
+    "Palk, B. (1984). Iron Age Bridle Bits from Britain. .",
+    "Pitts, M. (2001). Hayling Island, The Iron Age and Roman temple site on the Hampshire coast continues to surprise. .",
+    "King, A.,Soffe, G. (1994). The Iron Age and Roman Temple on Hayling Island, Hampshire. .",
+    "King, A.,Soffe, G. (2008). Hayling Island: a Gallo-Roman temple in Britain. .",
+    "Downey, R.,King, A.,Soffe, G. (1980). The Hayling island temple and religious connections accross the Channel. .",
+    "King, A.,Soffe, G. (2008). A bibliograohy of the Iron Age and Roman temple on Hayling Island. .",
+    "King, A.,Soffe, G. (1998). Internal organisation and deposition at the Iron Age temple on Hayling Island. .",
+    "King, A.,Soffe, G. (1991). Hayling Island. .",
+    "King, A.,Soffe, G. (2013). A Sacred Island Iron Age, Roman and Saxon Temples and Ritual on Hayling Island. .",
+    "Briggs, D.,Haselgrove, C.,King, C. (1993). Iron Age and Roman coins from Hayling Island temple. .",
+    "Raaflaub, K.,Ramsey, J. (2017). Reconstructing the Chronology of Caesar's Gallic Wars. .",
+    "Watts, D. (1998). Religion in late Roman Britain. .",
+    "Webster, J. (2015). Understanding Celtic Religion. .",
+    "Crease, S. (2015). Re-Thinking Ritual Traditions : Interpreting Structured Deposition in Watery Contexts in Late Pre-Roman Iron Age and Roman Britain By Susheela Marie Elizabeth Crease Submitted for the degree of PhD UCL. .",
+    "Haeussler, R. (2010). From tomb to temple: on the rôle of hero cults in local religions in Gaul and Britain in the Iron Age and the Roman period. 1. Test: Test, 1 - 10.",
+    "Haeussler, R. (2008). How to identify Celtic religion(s) in Roman Britain and Gaul. .",
+    "Allen, M. (2011). ANIMALSCAPES AND EMPIRE : NEW PERSPECTIVES ON THE IRON AGE / ROMANO-BRITISH TRANSITION. .",
+    " (2012). Religion and Ritual pre-AD 410. .",
+    "Forcey, C. (2017). Whatever Happened to the Heroes? Ancestral Cults and the Enigma of Romano-Celtic Temples. .",
+    "Henig, M. (2010). Attitudes to the Art of Roman Britain. .",
+    "Cleary, S. (2015). The ‘end of the gods' in late Roman Britain. .",
+    "Caesar, .,Hammond, C. (2008). Caesar: The Gallic War. Oxford World's Classics, .",
+    "Henig, M. (2003). Religion in Roman Britain. 1–275.",
+    "Scheid, J. (2007). Sacrifices for gods and ancestors. .",
+    "Méniel, P. (2015). Killing and Preparing Animals. ."
+   ]
+  },
+  {
+   "site": "Heybridge",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": []
+  },
+  {
+   "site": "Hockwold cum Wilton",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": []
+  },
+  {
+   "site": "Jordan Hill",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": []
+  },
+  {
+   "site": "Kelvedon",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": []
+  },
+  {
+   "site": "Killeen Cormac",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "Fitz Gerald, W. (1895). Killeen Cormac Inscribed Stones. .",
+    "Academy, R.,Studies, C. (1966). The \"Druuides\" Inscription at Killeen Cormac, County Kildare. .",
+    "MacAlister, R.,Praeger, R. (2014). Report on excavation recently conducted in Killeen Cormac, Co. Kildare. .",
+    "Shearman, J. (1866). On Inscribed Stones at Killeen Cormac, near Dunlavin. ."
+   ]
+  },
+  {
+   "site": "Knockcrack",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": []
+  },
+  {
+   "site": "Knowth",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "Mccormick, Finbar; Murray, E. (2007). EXCAVATIONS AT KNOWTH 3 Knowth and the Zooarchaeology of Early Christian Ireland. .",
+    "Read, C. (2013). Historical Knowth and its hinterland. 202–204.",
+    "Eogan, G. (2012). Excavations at Knowth 5. .",
+    "Eogan, G. (1997). Excavations at Knowth 2. .",
+    "Prendergast, K. (2017). Knowth passage-grave in Ireland: An instrument of precision astronomy?. .",
+    "Cahill Wilson, J. (2012). STRONTIUM AND OXYGEN ISOTOPE ANALYSISON IRON AGE AND EARLY HISTORIC BURIALSAROUND THE GREAT MOUND AT KNOWTH,CO. MEATH. ."
+   ]
+  },
+  {
+   "site": "Lamyat",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": []
+  },
+  {
+   "site": "Lancing Down",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "Bedwin, undefined. (1981). undefined. 37."
+   ]
+  },
+  {
+   "site": "Lismullin",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": []
+  },
+  {
+   "site": "London Mithraeum",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": []
+  },
+  {
+   "site": "Lough Lugh",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": []
+  },
+  {
+   "site": "Lowbury Hill",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "Atkinson, undefined. (undefined). undefined. ."
+   ]
+  },
+  {
+   "site": "Lugg",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": []
+  },
+  {
+   "site": "Lullingstone",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": []
+  },
+  {
+   "site": "Lydney",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": []
+  },
+  {
+   "site": "Magh Adhair",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": []
+  },
+  {
+   "site": "Maiden Castle",
+   "start": "",
+   "end": "",
+   "location": " England, Dorset, Dorchester, Maiden Castle Road",
+   "description": "",
+   "bibliography": [
+    "Booth, T.,Madgwick, R. (2016). New evidence for diverse secondary burial practices in Iron Age Britain: A histological case study. ."
+   ]
+  },
+  {
+   "site": "Meonstoke",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    " (2020). Sacred Landscapes in Antiquity: Creation, Manipulation, Transformation. ."
+   ]
+  },
+  {
+   "site": "Minninglow",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "Bateman, undefined. (1848). undefined. .",
+    "Bateman, undefined. (1861). undefined. .",
+    "Marsden, undefined. (1982). undefined. ."
+   ]
+  },
+  {
+   "site": "Money Mound Barrow",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "Beckensall, undefined. (1967). undefined. ."
+   ]
+  },
+  {
+   "site": "Moneybury Hill",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    " (undefined). MONUMENT NO. 346415. ."
+   ]
+  },
+  {
+   "site": "Moss Carr",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": []
+  },
+  {
+   "site": "Muntham Court",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "Holleyman, undefined.,Burstow, undefined. (1957). undefined. .",
+    "Green, undefined. (1976). undefined. ."
+   ]
+  },
+  {
+   "site": "Mutlow Hill",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "Rodwell, undefined. (1980). undefined. 570."
+   ]
+  },
+  {
+   "site": "Navan",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": []
+  },
+  {
+   "site": "Nettleton",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": []
+  },
+  {
+   "site": "Newgrange",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "Swift, C. (2003). The gods of Newgrange in Irish literature & romano-celtic tradition. .",
+    "Prendergast, K. (2017). Knowth passage-grave in Ireland: An instrument of precision astronomy?. .",
+    "Gibbons, M.,Gibbons, M. (2016). The Brú : A Hiberno-Roman Cult Site at Newgrange ?. .",
+    "Carson, R.,O'kelly, C. (1977). A Catalogue of the Roman Coins from Newgrange, Co. Meath and Notes on the Coins and Related Finds. ."
+   ]
+  },
+  {
+   "site": "Old Harlow",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "France, undefined.,Gobel, undefined. (1985). undefined. ."
+   ]
+  },
+  {
+   "site": "Palgrave",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "Shelley, undefined. (1995). undefined. ."
+   ]
+  },
+  {
+   "site": "Raffin Fort",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": []
+  },
+  {
+   "site": "Ratham Mill",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "King, A. (1983). A Romano-Celtic Temple at Ratham Mill, Funtington, West Sussex. ."
+   ]
+  },
+  {
+   "site": "Rathcroghan",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "Waddell, J.,Fenwick, J.,Barton, K. (2009). Rathcroghan, Archaeological and geophysical survey in a ritual landscape. .",
+    "Waddel, J. (2014). Title The Cave of Crúachain and the Otherworld. ."
+   ]
+  },
+  {
+   "site": "Sculptor's Cave",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": []
+  },
+  {
+   "site": "Sgiath Gabhra",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": []
+  },
+  {
+   "site": "Sharnbrook",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    " (undefined). MONUMENT NO. 1410831. ."
+   ]
+  },
+  {
+   "site": "Snow's Farm",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "Evans, undefined.,Hodder, undefined. (2006). undefined. ."
+   ]
+  },
+  {
+   "site": "South Cadbury",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": []
+  },
+  {
+   "site": "Springhead",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": []
+  },
+  {
+   "site": "Stanwick",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "Neal, undefined. (1989). undefined. 156 - 157."
+   ]
+  },
+  {
+   "site": "Stony Stratford",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "Esposito, A. (2019). Performing the Sacra: Priestly Roles and Their Organisation in Roman Britain. ."
+   ]
+  },
+  {
+   "site": "Struell Well",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "Mccormick, F. (2009). Struell Wells : pagan past and Christian present. ."
+   ]
+  },
+  {
+   "site": "Tailtiu",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": []
+  },
+  {
+   "site": "Tara",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "Cantzler, J. (2015). We Are (Not) Who We Were: Irish Cultural Nationalism and the Battle Over Tara. .",
+    "Armit, I. (2013). Objects and ideas: Roman influence at Tara and beyond. .",
+    "Tiernan McGarry, . (2013). The late prehistoric burials at Tara c. 900 BC-AD 200. ."
+   ]
+  },
+  {
+   "site": "Thetford",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": []
+  },
+  {
+   "site": "Thwing",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": []
+  },
+  {
+   "site": "Titsey",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": []
+  },
+  {
+   "site": "Uisneach",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "Schot, R. (2011). From cult centre to royal centre: monuments, myths and other revelations at Uisneach. ."
+   ]
+  },
+  {
+   "site": "Uley",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "Cleary, S. (2015). The ‘end of the gods' in late Roman Britain. .",
+    "Woodward, undefined.,Leach, undefined. (1993). The Uley Shrines: Excavation of a Ritual Complex on West Hill, Uley, Gloucestershire. .",
+    "Sparey-Green, undefined. (1987). undefined. ."
+   ]
+  },
+  {
+   "site": "Walkington Wold Barrow",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "Bartlett, undefined.,Mackey, undefined. (1973). undefined. .",
+    "Bailey, undefined. (1985). undefined. ."
+   ]
+  },
+  {
+   "site": "Wanborough",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": [
+    "Bird, undefined. (1994). undefined. .",
+    "Bird, undefined. (1996). undefined. ."
+   ]
+  },
+  {
+   "site": "Westhampnet",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": []
+  },
+  {
+   "site": "Weycock Hill",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": []
+  },
+  {
+   "site": "Yeavering",
+   "start": "",
+   "end": "",
+   "location": "",
+   "description": "",
+   "bibliography": []
   }
-  
+ ]
