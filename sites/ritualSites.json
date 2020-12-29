@@ -14,12 +14,21 @@
       },
       {
        "site": "Aquae Sulis",
-       "start": "",
-       "end": "",
+       "start": "-50",
+       "end": "400",
        "location": " England, Somerset, Bath, Abbey Churchyard",
-       "description": "",
+       "description": "An early Roman period temple set around a natural spring with an adjoining bath complex. There is some evidence to suggest that the spring had some ritual significance prior to the Roman structure, it has also been shown that the ritual use of the site continued strongly into the 4th Century with continued deposition of coins, defixiones, and modifications to the temple itself. Aquae Sulis is unique in that it is one of the few sites we have a contempory reference to in Solinus, De Mirabilibus Mundi, Capitula XXIIII.",
        "bibliography": [
-        "Downes, R. (1909). The Goddess Sul and Heathen Rites near Bath. "
+        "Cleary, S.E., 2015. The “end of the gods” in late Roman Britain. Gallia.",
+        "Cunliffe, B., 2009. Roman Bath Discovered. The History Press.",
+        "Cunliffe, B., Tomlin, R., Walker, D., Allason-Jones, L., 1988. The Temple of Sulis Minerva at Bath: Vol.2 (II): The finds from the sacred spring.",
+        "Davenport, P., 2021. Roman Bath: A New History and Archaeology of Aquae Sulis. The History Press.",
+        "Davenport, P., Cunliffe, B., 1985. The Temple Of Sulis Minerva At Bath: Volume 1 (I): The Site. Oxford University School of Archaeology.",
+        "Downes, Rev.A.M., 1909. The Goddess Sul and Heathen Rites near Bath.",
+        "Gerrard, J., 2007. The Temple of Sulis Minerva, Bath and the end of Roman Britain. The Antiquaries Journal 87.",
+        "Southern, P., 2015. The Story of Roman Bath. Amberley Publishing.",
+        "Stewart, R.J., 1981. Waters of the Gap: Mythology of Aquae Sulis. Humanities Press Intl."
+
        ]
       },
       {
