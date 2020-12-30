@@ -34,11 +34,16 @@
       },
       {
        "site": "Arthur's O'on",
-       "start": "",
-       "end": "",
+       "start": "83",
+       "end": "400",
        "location": " Scotland, Stirlingshire, Stenhousemuir",
-       "description": "",
-       "bibliography": []
+       "description": "A beehive like Roman structure throught possibly to be a shrine to victory built in the wake of Agrocola's campaigns in Scotland. Nothing now stands of the structure as it was demolished in 1743.",
+       "bibliography": [
+        "Steer, K.A., (1976). MORE LIGHT ON ARTHUR’S O’ON. STUDIES IN ROMAN ARCHAEOLOGY FOR ANNE S. ROBERTSON 4.",
+        "Steer, K.A., (1958). Arthur’s O’on: A lost shrine of Roman Britain.",
+        "Tatton-Brown, T.W.T., (1980). Camelon, Arthur’s O’on and the Main Supply Base for the Antonine Wall. Britannia 11."
+        
+       ]
       },
       {
        "site": "Ashill",
@@ -55,13 +60,13 @@
       },
       {
        "site": "Ashwell",
-       "start": "",
-       "end": "",
+       "start": "43",
+       "end": "410",
        "location": " England, Hetfordshire, Ashwell",
        "description": "",
        "bibliography": [
-        " (2018). Dea Senuna: Treasure, Cult and Ritual at Ashwell, Hertfordshire. ",
-        " (2018). Animal Bone. "
+        "Jackson, R., Burleigh, G., (2018). Dea Senuna: Treasure, Cult and Ritual at Ashwell, Hertfordshire. British Museum.",
+        "Richardson, I., (2012). PAS-9708E3: A ROMAN HOARD [WWW Document]. Portable Antiquities Scheme. URL https://finds.org.uk/database/artefacts/record/id/509533#1"
        ]
       },
       {
@@ -74,11 +79,17 @@
       },
       {
        "site": "Benwell Roman Temple",
-       "start": "",
-       "end": "",
+       "start": "100",
+       "end": "600",
        "location": " England, Tyne and Wear, Newcastle-upon-Tyne, Broomridge Avenue",
-       "description": "",
-       "bibliography": []
+       "description": "We know the temple was destroyed sometime in the 2nd Century. The latest coin issue was dated to 161 - 180 and there is evidence of burnt roof tiles and timbers, however, there is evidence of continued use as a burial ground. If the suspected burial just to the west is to be included we can push it's use to the 6th or 7th Century.",
+       "bibliography": [
+        "Bidwell, P., n.d. HISTORY OF BENWELL ROMAN TEMPLE [Online]. English Heritage. URL https://www.english-heritage.org.uk/visit/places/benwell-roman-temple-hadrians-wall/history/",
+        "Brewis, P., (1936). A cruciform brooch from Benwell, Newcastle upon Tyne. Archaeologia Aeliana, 4 13, 117–21.",
+        "Collingwood, R.G., Wright, R.P., (1965). RIB no. 1329, in: The Roman Inscriptions of Britain, Vol 1: Inscriptions on Stone. Oxford.",
+        "Jobey, G., Maxwell, D., (1957). A square-headed brooch from Benwell. Archaeologia Aeliana, 4 35.",
+        "Philips, E.J., (1977). fascicule 1: Corbridge, Hadrian’s Wall East of the North Tyne, in: Corpus Signorum Imperii Romani, Vol 1."       
+       ]
       },
       {
        "site": "Bottisham Temple",
@@ -92,8 +103,8 @@
       },
       {
        "site": "Brean Down",
-       "start": "",
-       "end": "",
+       "start": "340",
+       "end": "367",
        "location": " England, Somerset, Brean Down",
        "description": "",
        "bibliography": [
@@ -102,8 +113,8 @@
       },
       {
        "site": "Brigstock",
-       "start": "",
-       "end": "",
+       "start": "25",
+       "end": "400",
        "location": " England, Northamptonshire, Brigstock",
        "description": "",
        "bibliography": [
@@ -289,10 +300,10 @@
       },
       {
        "site": "Farley Heath Roman Temple",
-       "start": "",
-       "end": "",
+       "start": "400",
+       "end": "450",
        "location": " England, Surrey, Farley Heath",
-       "description": "",
+       "description": "There is earlier use noted but of unkown date.",
        "bibliography": [
         "Bird. (2007). ",
         "Bird. (1996). ",
@@ -356,9 +367,9 @@
        ]
       },
       {
-       "site": "Frilford",
-       "start": "",
-       "end": "",
+       "site": "Frilford Shrine",
+       "start": "70",
+       "end": "499",
        "location": " England, Berkshire, Frilford",
        "description": "",
        "bibliography": [
@@ -394,9 +405,9 @@
        ]
       },
       {
-       "site": "Gosebeck's Farm",
-       "start": "",
-       "end": "",
+       "site": "Gosbeck's Farm",
+       "start": "150",
+       "end": "399",
        "location": " England, Essex, Birch",
        "description": "",
        "bibliography": []
@@ -449,8 +460,8 @@
       },
       {
        "site": "Hayling Island",
-       "start": "",
-       "end": "",
+       "start": "-50",
+       "end": "70",
        "location": " England, Hampshire, Hayling Island",
        "description": "",
        "bibliography": [
@@ -496,17 +507,17 @@
        "bibliography": []
       },
       {
-       "site": "Hockwold cum Wilton",
-       "start": "",
-       "end": "",
+       "site": "Hockwold Temple",
+       "start": "100",
+       "end": "400",
        "location": " England, Norfolk, Hockwold cum Wilton",
        "description": "",
        "bibliography": []
       },
       {
        "site": "Jordan Hill",
-       "start": "",
-       "end": "",
+       "start": "300",
+       "end": "399",
        "location": " England, Dorset, Weymouth, Bowleaze Coveway",
        "description": "",
        "bibliography": []
@@ -556,9 +567,9 @@
        ]
       },
       {
-       "site": "Lamyat",
-       "start": "",
-       "end": "",
+       "site": "Lamyatt",
+       "start": "200",
+       "end": "410",
        "location": " England, Somerset, Mendip, Lamyatt",
        "description": "",
        "bibliography": []
@@ -599,8 +610,8 @@
       },
       {
        "site": "Lowbury Hill",
-       "start": "",
-       "end": "",
+       "start": "45",
+       "end": "65",
        "location": " England, Oxfordshire, Wallingford",
        "description": "",
        "bibliography": [
@@ -625,7 +636,7 @@
       },
       {
        "site": "Lydney Temple",
-       "start": "",
+       "start": "364",
        "end": "",
        "location": " England, Gloucstershire, Lydney Park",
        "description": "",
@@ -641,8 +652,8 @@
       },
       {
        "site": "Maiden Castle",
-       "start": "",
-       "end": "",
+       "start": "350",
+       "end": "499",
        "location": " England, Dorset, Dorchester, Maiden Castle Road",
        "description": "",
        "bibliography": [
@@ -730,8 +741,8 @@
       },
       {
        "site": "Nettleton Shrub",
-       "start": "",
-       "end": "",
+       "start": "69",
+       "end": "399",
        "location": " England, Wiltshire, Nettleton",
        "description": "",
        "bibliography": []
@@ -751,8 +762,8 @@
       },
       {
        "site": "Old Harlow",
-       "start": "",
-       "end": "",
+       "start": "250",
+       "end": "399",
        "location": " England, Essex, Old Harlow",
        "description": "",
        "bibliography": [
@@ -835,9 +846,9 @@
        ]
       },
       {
-       "site": "South Cadbury",
-       "start": "",
-       "end": "",
+       "site": "Cadbury Castle / Henley Wood",
+       "start": "200",
+       "end": "300",
        "location": " England, Somerset",
        "description": "",
        "bibliography": []
@@ -936,8 +947,8 @@
       },
       {
        "site": "Uley Shrine",
-       "start": "",
-       "end": "",
+       "start": "-199",
+       "end": "799",
        "location": " England, Gloucestershire, Uley",
        "description": "",
        "bibliography": [
@@ -959,8 +970,8 @@
       },
       {
        "site": "Wanborough Temple",
-       "start": "",
-       "end": "",
+       "start": "25",
+       "end": "350",
        "location": " England, Surrey, Guildford, Wanborough",
        "description": "",
        "bibliography": [
@@ -978,8 +989,8 @@
       },
       {
        "site": "Weycock Hill",
-       "start": "",
-       "end": "",
+       "start": "300",
+       "end": "499",
        "location": " England, Berkshire, Reading",
        "description": "",
        "bibliography": []
