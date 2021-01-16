@@ -3,16 +3,6 @@
     "name": "Ritual Sites of Britain & Ireland",
     "sites": [
       {
-       "site": "All Cannings Cross",
-       "start": "",
-       "end": "",
-       "location": " England, Wiltshire, Devizes, Greenhouse Rd",
-       "description": "",
-       "bibliography": [
-        "Ten Harkel, L., Franconi, T., Gosden, C. (2017). Fields, Ritual and Religion: Holistic Approaches to the Rural Landscape in Long-Term Perspective (c.1500 BC–AD 1086). Oxford Journal of Archaeology. Volume 36(4), "
-       ]
-      },
-      {
        "site": "Aquae Sulis",
        "start": "-50",
        "end": "400",
@@ -46,19 +36,6 @@
        ]
       },
       {
-       "site": "Ashill",
-       "start": "",
-       "end": "",
-       "location": " England, Norfolk, Ashill",
-       "description": "",
-       "bibliography": [
-        "Ten Harkel, L., Franconi, T., Gosden, C. (2017). Fields, Ritual and Religion: Holistic Approaches to the Rural Landscape in Long-Term Perspective (c.1500 BC–AD 1086). Oxford Journal of Archaeology. Volume 36(4), ",
-        "Isserlin. (1994). ",
-        "Gregory. (1977). ",
-        "Barton. (1879). "
-       ]
-      },
-      {
        "site": "Ashwell",
        "start": "43",
        "end": "410",
@@ -68,14 +45,6 @@
         "Jackson, R., Burleigh, G., (2018). Dea Senuna: Treasure, Cult and Ritual at Ashwell, Hertfordshire. British Museum.",
         "Richardson, I., (2012). PAS-9708E3: A ROMAN HOARD [WWW Document]. Portable Antiquities Scheme. URL https://finds.org.uk/database/artefacts/record/id/509533#1"
        ]
-      },
-      {
-       "site": "Ballymount",
-       "start": "",
-       "end": "",
-       "location": "",
-       "description": "",
-       "bibliography": []
       },
       {
        "site": "Benwell Roman Temple",
@@ -89,16 +58,6 @@
         "Collingwood, R.G., Wright, R.P., (1965). RIB no. 1329, in: The Roman Inscriptions of Britain, Vol 1: Inscriptions on Stone. Oxford.",
         "Jobey, G., Maxwell, D., (1957). A square-headed brooch from Benwell. Archaeologia Aeliana, 4 35.",
         "Philips, E.J., (1977). fascicule 1: Corbridge, Hadrian’s Wall East of the North Tyne, in: Corpus Signorum Imperii Romani, Vol 1."       
-       ]
-      },
-      {
-       "site": "Bottisham Temple",
-       "start": "",
-       "end": "",
-       "location": " England, Cambridgeshire, Bottisham, Whiteland Spring",
-       "description": "",
-       "bibliography": [
-        "MONUMENT NO. 1151638. [online] Available at: URL https://www.pastscape.org.uk/hob.aspx?hob_id=1151638&sort=2&type=TEMPLE&rational=a&class1=11&period=43|410|ROMAN|38|0&county=None&district=None&parish=None&place=&yearfrom=43&yearto=410&recordsperpage=60&source=text&rtype=&rnumber=. "
        ]
       },
       {
@@ -124,115 +83,6 @@
        ]
       },
       {
-       "site": "Buckingham Roman complex",
-       "start": "",
-       "end": "",
-       "location": " England, Buckinghamshire, Buckingham",
-       "description": "",
-       "bibliography": [
-        "MONUMENT NO. 343002. [online] Available at: URL https://www.pastscape.org.uk/hob.aspx?hob_id=343002&sort=2&type=TEMPLE&rational=a&class1=11&period=43|410|ROMAN|38|0&county=None&district=None&parish=None&place=&yearfrom=43&yearto=410&recordsperpage=60&source=text&rtype=&rnumber=. "
-       ]
-      },
-      {
-       "site": "Caernarfon Mithraeum",
-       "start": "",
-       "end": "",
-       "location": " Wales, Gwynedd, Caernarfon",
-       "description": "",
-       "bibliography": [
-        "Grimes, W., Close-Brooks, J., Cotton, J.,, et al., May, J.,, et al., Williams, D. (1944). The Excavation of Caesar's Camp, Heathrow, Harmondsworth, Middlesex. Cambridge University Press. [online] Available at: URL https://www.cambridge.org/core/journals/proceedings-of-the-prehistoric-society/article/abs/excavation-of-caesars-camp-heathrow-harmondsworth-middlesex-1944/053E372D23C577451C9A5DB688FFC8A9. "
-       ]
-      },
-      {
-       "site": "Caesar's Camp",
-       "start": "",
-       "end": "",
-       "location": " England, Middlesex, Harmondsworth, Heathrow",
-       "description": "",
-       "bibliography": []
-      },
-      {
-       "site": "Caistor St.Edmund",
-       "start": "",
-       "end": "",
-       "location": " England, Norfolk, Caistor Saint Edmund",
-       "description": "",
-       "bibliography": []
-      },
-      {
-       "site": "Camerton Roman Town",
-       "start": "",
-       "end": "",
-       "location": " England, Somerset, Camerton",
-       "description": "",
-       "bibliography": [
-        "CAMERTON ROMAN TOWN. [online] Available at: URL https://www.pastscape.org.uk/hob.aspx?hob_id=200496&sort=2&type=TEMPLE&rational=a&class1=11&period=43|410|ROMAN|38|0&county=None&district=None&parish=None&place=&yearfrom=43&yearto=410&recordsperpage=60&source=text&rtype=&rnumber=. "
-       ]
-      },
-      {
-       "site": "Carrawburgh",
-       "start": "",
-       "end": "",
-       "location": "",
-       "description": "",
-       "bibliography": []
-      },
-      {
-       "site": "Carrowmably",
-       "start": "",
-       "end": "",
-       "location": "",
-       "description": "",
-       "bibliography": []
-      },
-      {
-       "site": "Cashel",
-       "start": "",
-       "end": "",
-       "location": "",
-       "description": "",
-       "bibliography": []
-      },
-      {
-       "site": "Cavenham Heath",
-       "start": "",
-       "end": "",
-       "location": "",
-       "description": "",
-       "bibliography": [
-        "Esposito, A. (2019). Performing the Sacra: Priestly Roles and Their Organisation in Roman Britain. "
-       ]
-      },
-      {
-       "site": "Chanctonbury Ring",
-       "start": "",
-       "end": "",
-       "location": " England, West Sussex, Chanctonbury Hill",
-       "description": "",
-       "bibliography": [
-        "Bedwin. (1980). ",
-        "Woodward. (1992). "
-       ]
-      },
-      {
-       "site": "Charlcombe Temple",
-       "start": "",
-       "end": "",
-       "location": " England, Somerset, Charlcombe",
-       "description": "",
-       "bibliography": [
-        "MONUMENT NO. 205009. [online] Available at: URL https://www.pastscape.org.uk/hob.aspx?hob_id=205009&sort=2&type=TEMPLE&rational=a&class1=11&period=43|410|ROMAN|38|0&county=None&district=None&parish=None&place=&yearfrom=43&yearto=410&recordsperpage=60&source=text&rtype=&rnumber=. "
-       ]
-      },
-      {
-       "site": "Chedworth Villa",
-       "start": "",
-       "end": "",
-       "location": " England, Gloucstershire, Cheltenham, Yanworth",
-       "description": "",
-       "bibliography": []
-      },
-      {
        "site": "Chelmsford",
        "start": "60",
        "end": "402",
@@ -242,64 +92,6 @@
         "Smith, A., (2008). The Fate of Pagan Temples in South-East Britain, in: Rudling, D. (Ed.), Ritual Landsacpes of South-East Britain.",
         "Wickenden, (1992).",
         "Drury, (1988)."
-       ]
-      },
-      {
-       "site": "Cottenham",
-       "start": "",
-       "end": "",
-       "location": " England, Cambridgeshire",
-       "description": "",
-       "bibliography": [
-        "Walker. (2014). "
-       ]
-      },
-      {
-       "site": "Cressing",
-       "start": "",
-       "end": "",
-       "location": " England, Essex",
-       "description": "",
-       "bibliography": [
-        " (20/12/2020). Boudicca revolt: Essex dig reveals 'evidence of Roman reprisals'. [online] Available at: URL https://www.bbc.co.uk/news/uk-england-essex-55337814. "
-       ]
-      },
-      {
-       "site": "Croft Ambrey Hillfort",
-       "start": "",
-       "end": "",
-       "location": " England, Herefordshire, Yatton Hill",
-       "description": "",
-       "bibliography": [
-        "Stanford. (1985). "
-       ]
-      },
-      {
-       "site": "Deskford",
-       "start": "",
-       "end": "",
-       "location": " Scotland, Aberdeenshire, Leichestown Farm",
-       "description": "",
-       "bibliography": []
-      },
-      {
-       "site": "Dún Ailinne",
-       "start": "",
-       "end": "",
-       "location": " Ireland, County Kildare",
-       "description": "",
-       "bibliography": [
-        "Johnston, S., Crabtree, P., Campana, D. (2014). Performance, place and power at Dún Ailinne, a ceremonial site of the Irish Iron Age. World Archaeology. [online] Volume 46(2), Available at: URL http://dx.doi.org/10.1080/00438243.2014.883937. "
-       ]
-      },
-      {
-       "site": "Egleton",
-       "start": "",
-       "end": "",
-       "location": " England, Rutland",
-       "description": "",
-       "bibliography": [
-        "Brown, J. (2016). A middle Iron Age enclosure and a Romano-British shrine complex near Egleton, Rutland. Transactions of the Leicestershire Archaeological and Historical Society. Volume 90(August 2019), "
        ]
       },
       {
@@ -316,61 +108,6 @@
        ]
       },
       {
-       "site": "Felmingham Hall",
-       "start": "",
-       "end": "",
-       "location": "",
-       "description": "",
-       "bibliography": [
-        "Esposito, A. (2019). Performing the Sacra: Priestly Roles and Their Organisation in Roman Britain. ",
-        "Walker. (2014). ",
-        "Blythe. (1844). ",
-        "Gilbert. (1978). "
-       ]
-      },
-      {
-       "site": "Folly Lane Temple",
-       "start": "",
-       "end": "",
-       "location": " England, Surrey, Farnham, Folly Lane",
-       "description": "",
-       "bibliography": [
-        "Niblett, R. (1984). THE EXCAVATION OF A CEREMONIAL SITE AT FOLLY LANE, VERULAMIUM. Atlal. Volume 8(14), "
-       ]
-      },
-      {
-       "site": "Forteviot",
-       "start": "",
-       "end": "",
-       "location": " Scotland, Strathearn, Forteviot",
-       "description": "",
-       "bibliography": [
-        "Maldonado, A. Barrows and the conversion of the landscape at Forteviot, Perthshire. In:  ed., Converting the Isles II. ",
-        "Campbell, E., Maldonado, A., Gondek, M. An Early Medieval andprehistoric nexus:the Strathearn Environsand Royal Forteviot project. In:  ed., "
-       ]
-      },
-      {
-       "site": "Frampton Villa",
-       "start": "",
-       "end": "",
-       "location": " England, Dorset, Maiden Newton",
-       "description": "",
-       "bibliography": [
-        "Perring, D. (2003). 'Gnosticism' in Fourth-Century Britain: The Frampton Mosaics Reconsidered. ",
-        "Perring, D. (2003). Deconstructing the Frampton Pavements: Gnostic Dialectic in Roman Britain?. "
-       ]
-      },
-      {
-       "site": "Freestone Hill",
-       "start": "",
-       "end": "",
-       "location": " Ireland, Kilkenny, Gowran",
-       "description": "",
-       "bibliography": [
-        "Raftery, B. (2014). Freestone Hill, Co. Kilkenny: An Iron Age Hillfort and Bronze Age Cairn: Excavation. "
-       ]
-      },
-      {
        "site": "Frilford Shrine",
        "start": "70",
        "end": "499",
@@ -378,34 +115,6 @@
        "description": "",
        "bibliography": [
         "Kamash, Z., Gosden, C., Lock, G. (2010). Continuity and Religious Practices in Roman Britain: The Case of the Rural Religious Complex at Marcham/Frilford, Oxfordshire. "
-       ]
-      },
-      {
-       "site": "Giant's Grave long barrow",
-       "start": "",
-       "end": "",
-       "location": "",
-       "description": "",
-       "bibliography": [
-        "Annable. Volume 1970, "
-       ]
-      },
-      {
-       "site": "Giant's Ring",
-       "start": "",
-       "end": "",
-       "location": " Ireland, County Down, Ballynahatty",
-       "description": "",
-       "bibliography": []
-      },
-      {
-       "site": "Godmanchester",
-       "start": "",
-       "end": "",
-       "location": " England, Cambridgeshire, Huntingdonshire",
-       "description": "",
-       "bibliography": [
-        " (1986). Pagan Gods and Shrines of the Roman Empire. "
        ]
       },
       {
@@ -428,44 +137,6 @@
         "Miller, (1995).",
         "Burnham, Wacher, (1990).",
         "Collins, (1978)."
-       ]
-      },
-      {
-       "site": "Haddenham",
-       "start": "",
-       "end": "",
-       "location": " England, Buckinghamshire, Haddenham",
-       "description": "",
-       "bibliography": [
-        "Evans. (1985). "
-       ]
-      },
-      {
-       "site": "Hallaton",
-       "start": "",
-       "end": "",
-       "location": " England,  Leicestershire, Hallaton",
-       "description": "",
-       "bibliography": []
-      },
-      {
-       "site": "Hambledon Hill",
-       "start": "",
-       "end": "",
-       "location": " England, Dorset, Blackmore Vale",
-       "description": "",
-       "bibliography": [
-        "MONUMENT NO. 1200986. [online] Available at: URL https://www.pastscape.org.uk/hob.aspx?hob_id=1200986&sort=2&type=TEMPLE&rational=a&class1=11&period=43|410|ROMAN|38|0&county=None&district=None&parish=None&place=&yearfrom=43&yearto=410&recordsperpage=60&source=text&rtype=&rnumber=. "
-       ]
-      },
-      {
-       "site": "Hawkhill",
-       "start": "",
-       "end": "",
-       "location": "",
-       "description": "",
-       "bibliography": [
-        "Rees, A. The excavation of an Iron Age unenclosed settlement and an Early Historic multiple burial and metalworking area at Hawkhill, Lunan Bay, Angus. "
        ]
       },
       {
@@ -505,14 +176,6 @@
        ]
       },
       {
-       "site": "Heybridge",
-       "start": "",
-       "end": "",
-       "location": " England, Essex, Heybridge",
-       "description": "",
-       "bibliography": []
-      },
-      {
        "site": "Hockwold Temple",
        "start": "100",
        "end": "400",
@@ -529,88 +192,10 @@
        "bibliography": []
       },
       {
-       "site": "Kelvedon",
-       "start": "",
-       "end": "",
-       "location": " England, Essex, Braintree, Kelvedon",
-       "description": "",
-       "bibliography": []
-      },
-      {
-       "site": "Killeen Cormac",
-       "start": "",
-       "end": "",
-       "location": " Ireland, Kildare, Colbinstown",
-       "description": "",
-       "bibliography": [
-        "Fitz Gerald, W. (1895). Killeen Cormac Inscribed Stones. Volume 5(4), ",
-        "Academy, R., Studies, C. (1966). The \"Druuides\" Inscription at Killeen Cormac, County Kildare. Nature. Volume 210(5033), ",
-        "MacAlister, R., Praeger, R. (2014). Report on excavation recently conducted in Killeen Cormac, Co. Kildare. Priac. Volume 38, ",
-        "Shearman, J. (1866). On Inscribed Stones at Killeen Cormac, near Dunlavin. Volume 9, "
-       ]
-      },
-      {
-       "site": "Knockcrack",
-       "start": "",
-       "end": "",
-       "location": "",
-       "description": "",
-       "bibliography": []
-      },
-      {
-       "site": "Knowth",
-       "start": "",
-       "end": "",
-       "location": " Ireland, County Meath, Drogheda",
-       "description": "",
-       "bibliography": [
-        "Mccormick, Finbar; Murray, E. (2007). EXCAVATIONS AT KNOWTH 3 Knowth and the Zooarchaeology of Early Christian Ireland. ",
-        "Read, C. (2013). Historical Knowth and its hinterland. pp.202–204. ",
-        "Eogan, G. (2012). Excavations at Knowth 5. ",
-        "Eogan, G. (1997). Excavations at Knowth 2. ",
-        "Prendergast, K. (2017). Knowth passage-grave in Ireland: An instrument of precision astronomy?. Journal of Lithic Studies. Volume 4(3), ",
-        "Cahill Wilson, J. (2012). STRONTIUM AND OXYGEN ISOTOPE ANALYSISON IRON AGE AND EARLY HISTORIC BURIALSAROUND THE GREAT MOUND AT KNOWTH,CO. MEATH. "
-       ]
-      },
-      {
        "site": "Lamyatt",
        "start": "200",
        "end": "410",
        "location": " England, Somerset, Mendip, Lamyatt",
-       "description": "",
-       "bibliography": []
-      },
-      {
-       "site": "Lancing Ring",
-       "start": "",
-       "end": "",
-       "location": " England, Sussex, Lancing",
-       "description": "",
-       "bibliography": [
-        "Bedwin. (1981). pp.37. "
-       ]
-      },
-      {
-       "site": "Lismullin Enclosure",
-       "start": "",
-       "end": "",
-       "location": " Ireland, County Meath, Lismullin",
-       "description": "",
-       "bibliography": []
-      },
-      {
-       "site": "London Mithraeum",
-       "start": "",
-       "end": "",
-       "location": " England, London 12 Walbrook",
-       "description": "",
-       "bibliography": []
-      },
-      {
-       "site": "Lough Lugh",
-       "start": "",
-       "end": "",
-       "location": " Ireland, County Westmeath, Rathnew",
        "description": "",
        "bibliography": []
       },
@@ -625,34 +210,10 @@
        ]
       },
       {
-       "site": "Lugg",
-       "start": "",
-       "end": "",
-       "location": "",
-       "description": "",
-       "bibliography": []
-      },
-      {
-       "site": "Lullingstone Roman Villa",
-       "start": "",
-       "end": "",
-       "location": " England, Kent, Lullingstone",
-       "description": "",
-       "bibliography": []
-      },
-      {
        "site": "Lydney Temple",
        "start": "364",
        "end": "",
        "location": " England, Gloucstershire, Lydney Park",
-       "description": "",
-       "bibliography": []
-      },
-      {
-       "site": "Magh Adhair",
-       "start": "",
-       "end": "",
-       "location": " Ireland, County Clare, Quin",
        "description": "",
        "bibliography": []
       },
@@ -677,94 +238,12 @@
        ]
       },
       {
-       "site": "Minninglow",
-       "start": "",
-       "end": "",
-       "location": " England, Derbyshire, Peak District, White Peak",
-       "description": "",
-       "bibliography": [
-        "Bateman. (1848). ",
-        "Bateman. (1861). ",
-        "Marsden. (1982). "
-       ]
-      },
-      {
-       "site": "Money Mound Barrow",
-       "start": "",
-       "end": "",
-       "location": "",
-       "description": "",
-       "bibliography": [
-        "Beckensall. (1967). "
-       ]
-      },
-      {
-       "site": "Moneybury Hill Roman site",
-       "start": "",
-       "end": "",
-       "location": " England, Buckinghamshire, Pitstone",
-       "description": "",
-       "bibliography": [
-        "MONUMENT NO. 346415. [online] Available at: URL https://www.pastscape.org.uk/hob.aspx?hob_id=346415&sort=2&type=TEMPLE&rational=a&class1=11&period=43|410|ROMAN|38|0&county=None&district=None&parish=None&place=&yearfrom=43&yearto=410&recordsperpage=60&source=text&rtype=&rnumber=. "
-       ]
-      },
-      {
-       "site": "Moss Carr",
-       "start": "",
-       "end": "",
-       "location": "",
-       "description": "",
-       "bibliography": []
-      },
-      {
-       "site": "Muntham Court",
-       "start": "",
-       "end": "",
-       "location": " England, West Sussex, Findon",
-       "description": "",
-       "bibliography": [
-        "Holleyman., Burstow. (1957). ",
-        "Green. (1976).  ed., "
-       ]
-      },
-      {
-       "site": "Mutlow Hill",
-       "start": "",
-       "end": "",
-       "location": " England, Cambridgeshire, Cambridge",
-       "description": "",
-       "bibliography": [
-        "Rodwell. (1980). pp.570. "
-       ]
-      },
-      {
-       "site": "Navan",
-       "start": "",
-       "end": "",
-       "location": " Ireland, Armagh, 81 Killylea Rd",
-       "description": "",
-       "bibliography": []
-      },
-      {
        "site": "Nettleton Shrub",
        "start": "69",
        "end": "399",
        "location": " England, Wiltshire, Nettleton",
        "description": "",
        "bibliography": []
-      },
-      {
-       "site": "Newgrange",
-       "start": "",
-       "end": "",
-       "location": " Ireland, County Meath, Donore",
-       "description": "",
-       "bibliography": [
-        "Swift, C. (2003). The gods of Newgrange in Irish literature & romano-celtic tradition. Stones and bones : Formal disposal of the dead in Atlantic Europe during the Mesolithic-Neolithic interface 6000-3000 bc. ",
-        "Prendergast, K. (2017). Knowth passage-grave in Ireland: An instrument of precision astronomy?. Journal of Lithic Studies. Volume 4(3), ",
-        "Gibbons, M., Gibbons, M. (2016). The Brú : A Hiberno-Roman Cult Site at Newgrange ?. ",
-        "Carson, R., O'kelly, C. (1977). A Catalogue of the Roman Coins from Newgrange, Co. Meath and Notes on the Coins and Related Finds. "
-       ]
       },
       {
        "site": "Old Harlow",
@@ -777,179 +256,12 @@
        ]
       },
       {
-       "site": "Palgrave",
-       "start": "",
-       "end": "",
-       "location": "",
-       "description": "",
-       "bibliography": [
-        "Shelley. (1995). "
-       ]
-      },
-      {
-       "site": "Raffin Fort",
-       "start": "",
-       "end": "",
-       "location": " Irealnd, County Meath",
-       "description": "",
-       "bibliography": []
-      },
-      {
-       "site": "Ratham Mill",
-       "start": "",
-       "end": "",
-       "location": "",
-       "description": "",
-       "bibliography": [
-        "King, A. (1983). A Romano-Celtic Temple at Ratham Mill, Funtington, West Sussex. "
-       ]
-      },
-      {
-       "site": "Rathcroghan",
-       "start": "",
-       "end": "",
-       "location": " Ireland, County Roscommon, Rathcave",
-       "description": "",
-       "bibliography": [
-        "Waddell, J., Fenwick, J., Barton, K. (2009). Rathcroghan, Archaeological and geophysical survey in a ritual landscape. ",
-        "Waddel, J. (2014). Title The Cave of Crúachain and the Otherworld. "
-       ]
-      },
-      {
-       "site": "Sculptor's Cave",
-       "start": "",
-       "end": "",
-       "location": " Scotland, Morray, Covesea",
-       "description": "",
-       "bibliography": []
-      },
-      {
-       "site": "Sgiath Gabhra",
-       "start": "",
-       "end": "",
-       "location": " Ireland, County Fermanagh, Cornashee",
-       "description": "",
-       "bibliography": []
-      },
-      {
-       "site": "Sharnbrook",
-       "start": "",
-       "end": "",
-       "location": " England, Bedfordshire, Sharnbrook",
-       "description": "",
-       "bibliography": [
-        "MONUMENT NO. 1410831. [online] Available at: URL https://www.pastscape.org.uk/hob.aspx?hob_id=1410831&sort=2&type=TEMPLE&rational=a&class1=11&period=43|410|ROMAN|38|0&county=None&district=None&parish=None&place=&yearfrom=43&yearto=410&recordsperpage=60&source=text&rtype=&rnumber=. "
-       ]
-      },
-      {
-       "site": "Snow's Farm",
-       "start": "",
-       "end": "",
-       "location": " England, Gloucestershire, Snows Farm",
-       "description": "",
-       "bibliography": [
-        "Evans., Hodder. (2006). "
-       ]
-      },
-      {
        "site": "Cadbury Castle / Henley Wood",
        "start": "200",
        "end": "300",
        "location": " England, Somerset",
        "description": "",
        "bibliography": []
-      },
-      {
-       "site": "Springhead",
-       "start": "",
-       "end": "",
-       "location": "",
-       "description": "",
-       "bibliography": []
-      },
-      {
-       "site": "Stanwick",
-       "start": "",
-       "end": "",
-       "location": "",
-       "description": "",
-       "bibliography": [
-        "Neal. (1989). pp.156 - 157. "
-       ]
-      },
-      {
-       "site": "Stony Stratford",
-       "start": "",
-       "end": "",
-       "location": " England, Buckinghamshire, Milton Keynes",
-       "description": "",
-       "bibliography": [
-        "Esposito, A. (2019). Performing the Sacra: Priestly Roles and Their Organisation in Roman Britain. "
-       ]
-      },
-      {
-       "site": "Struell Well",
-       "start": "",
-       "end": "",
-       "location": " Ireland, County Down, Struell",
-       "description": "",
-       "bibliography": [
-        "Mccormick, F. (2009). Struell Wells : pagan past and Christian present. Volume 139, "
-       ]
-      },
-      {
-       "site": "Tailtiu",
-       "start": "",
-       "end": "",
-       "location": " Ireland, County Meath, Teltown",
-       "description": "",
-       "bibliography": []
-      },
-      {
-       "site": "The Hill of Tara",
-       "start": "",
-       "end": "",
-       "location": " Ireland, County Meath, Castleboy",
-       "description": "",
-       "bibliography": [
-        "Cantzler, J. (2015). We Are (Not) Who We Were: Irish Cultural Nationalism and the Battle Over Tara. Volume 4, ",
-        "Armit, I. (2013). Objects and ideas: Roman influence at Tara and beyond. ",
-        "Tiernan McGarry. (2013). The late prehistoric burials at Tara c. 900 BC-AD 200. "
-       ]
-      },
-      {
-       "site": "Thetford",
-       "start": "",
-       "end": "",
-       "location": "",
-       "description": "",
-       "bibliography": []
-      },
-      {
-       "site": "Thwing",
-       "start": "",
-       "end": "",
-       "location": " England, East Riding of Yorkshire",
-       "description": "",
-       "bibliography": []
-      },
-      {
-       "site": "Titsey Temple",
-       "start": "",
-       "end": "",
-       "location": " England, Surrey, Titsey",
-       "description": "",
-       "bibliography": []
-      },
-      {
-       "site": "Uisneach",
-       "start": "",
-       "end": "",
-       "location": " Ireland, County Westmeath, Loughnavalley, Rathnew",
-       "description": "",
-       "bibliography": [
-        "Schot, R. (2011). From cult centre to royal centre: monuments, myths and other revelations at Uisneach. Landscapes of Cult and Kingship. "
-       ]
       },
       {
        "site": "Uley Shrine",
@@ -964,17 +276,6 @@
        ]
       },
       {
-       "site": "Walkington Wold Barrow",
-       "start": "",
-       "end": "",
-       "location": "",
-       "description": "",
-       "bibliography": [
-        "Bartlett., Mackey. (1973). ",
-        "Bailey. (1985). "
-       ]
-      },
-      {
        "site": "Wanborough Temple",
        "start": "25",
        "end": "350",
@@ -986,26 +287,10 @@
        ]
       },
       {
-       "site": "Westhampnet",
-       "start": "",
-       "end": "",
-       "location": "",
-       "description": "",
-       "bibliography": []
-      },
-      {
        "site": "Weycock Hill",
        "start": "300",
        "end": "499",
        "location": " England, Berkshire, Reading",
-       "description": "",
-       "bibliography": []
-      },
-      {
-       "site": "Yeavering",
-       "start": "",
-       "end": "",
-       "location": " England, Northumberland, Kirknewton",
        "description": "",
        "bibliography": []
       },
