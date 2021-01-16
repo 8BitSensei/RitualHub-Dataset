@@ -234,11 +234,15 @@
       },
       {
        "site": "Chelmsford",
-       "start": "",
-       "end": "",
-       "location": " England, Essex",
-       "description": "",
-       "bibliography": []
+       "start": "60",
+       "end": "402",
+       "location": " England, Essex, Chelmsford",
+       "description": "The earliest ritual activity recorded at Chelmsford begins in 60 AD and shows continuous activity until the early 5th. The latest coin issue found on the site dates from 388 - 402 AD with the distinct possibility of later activity. The sites demise is likely connected to the end of thRoman town in which it sat at the eastern entrance of. Wickenden suggests a dedication to Mars.",
+       "bibliography": [
+        "Smith, A., (2008). The Fate of Pagan Temples in South-East Britain, in: Rudling, D. (Ed.), Ritual Landsacpes of South-East Britain.",
+        "Wickenden, (1992).",
+        "Drury, (1988)."
+       ]
       },
       {
        "site": "Cottenham",
@@ -307,7 +311,7 @@
        "bibliography": [
         "Bird. (2007). ",
         "Bird. (1996). ",
-        " (1958).  ed., Guide to the Antiquities. ",
+        "(1958). Guide to the Antiquities.",
         "Goodchild. (1938). "
        ]
       },
@@ -414,11 +418,17 @@
       },
       {
        "site": "Great Chesterford",
-       "start": "",
-       "end": "",
+       "start": "0",
+       "end": "400",
        "location": " England, Essex, Uttlesford",
-       "description": "",
-       "bibliography": []
+       "description": "A substantial Romano-Celtic temple set within an extensive temenos, 1km east of the Roman town. The site shows some evidence of pre-invasion use in the early 1st century and shows continued ritual activity up to the the late 4th or early 5th century.",
+       "bibliography": [
+        "Smith, A., (2008). The Fate of Pagan Temples in South-East Britain, in: Rudling, D. (Ed.), Ritual Landsacpes of South-East Britain.",
+        "Kemble, (2001).",
+        "Miller, (1995).",
+        "Burnham, Wacher, (1990).",
+        "Collins, (1978)."
+       ]
       },
       {
        "site": "Haddenham",
@@ -469,7 +479,7 @@
         "Katrina-Kay Sepulveda, A. (2016). An Archaeology of Temple Assemblages and Social Practice in Early South-Eastern Roman Britain. ",
         "King, A. (2014). The Pre-Roman Cult Site at Hayling Island, Hampshire, GB: The Problem of Characterizing an Anonymous Deity. ",
         "Downey, R., King, A., Soffe, G. (1978). The Roman temple on Hayling Island. ",
-        " (2020). Sacred Landscapes in Antiquity: Creation, Manipulation, Transformation. ",
+        "(2020). Sacred Landscapes in Antiquity: Creation, Manipulation, Transformation. ",
         "Creighton, J. (2000). Coins and Power in Late Iron Age Britain. ",
         "Palk, B. (1984). Iron Age Bridle Bits from Britain. ",
         "Pitts, M. (2001). Hayling Island, The Iron Age and Roman temple site on the Hampshire coast continues to surprise. ",
@@ -481,21 +491,17 @@
         "King, A., Soffe, G. (1991). Hayling Island. In:  ed., Britain in the Roman Period: recent trends. ",
         "King, A., Soffe, G. (2013). A Sacred Island Iron Age, Roman and Saxon Temples and Ritual on Hayling Island. In:  ed., ",
         "Briggs, D., Haselgrove, C., King, C. (1993). Iron Age and Roman coins from Hayling Island temple. British Numismatic Journal. [online] Volume 62, Available at: URL http://www.britnumsoc.org/publications/Digital BNJ/pdfs/1992_BNJ_62_3.pdf. ",
-        "Raaflaub, K., Ramsey, J. (2017). Reconstructing the Chronology of Caesar's Gallic Wars. Volume 11(April), ",
         "Watts, D. (1998). Religion in late Roman Britain. ",
         "Webster, J. (2015). Understanding Celtic Religion. ",
         "Crease, S. (2015). Re-Thinking Ritual Traditions : Interpreting Structured Deposition in Watery Contexts in Late Pre-Roman Iron Age and Roman Britain By Susheela Marie Elizabeth Crease Submitted for the degree of PhD UCL. ",
         "Haeussler, R. (2010). From tomb to temple: on the rôle of hero cults in local religions in Gaul and Britain in the Iron Age and the Roman period. 1. Test: Test, pp.1 - 10. ",
         "Haeussler, R. (2008). How to identify Celtic religion(s) in Roman Britain and Gaul. ",
         "Allen, M. (2011). ANIMALSCAPES AND EMPIRE : NEW PERSPECTIVES ON THE IRON AGE / ROMANO-BRITISH TRANSITION. ",
-        " (2012). Religion and Ritual pre-AD 410. ",
+        "(2012). Religion and Ritual pre-AD 410. ",
         "Forcey, C. (2017). Whatever Happened to the Heroes? Ancestral Cults and the Enigma of Romano-Celtic Temples. Theoretical Roman Archaeology Journal. ",
         "Henig, M. (2010). Attitudes to the Art of Roman Britain. In:  ed., THE Art of ROMAN BRITAIN. ",
         "Cleary, S. (2015). The ‘end of the gods' in late Roman Britain. ",
-        "Caesar., Hammond, C. (2008). Caesar: The Gallic War. Oxford World's Classics. ",
-        "Henig, M. (2003). Religion in Roman Britain. pp.1–275. ",
-        "Scheid, J. (2007). Sacrifices for gods and ancestors. In:  ed., A Companion to Roman Religion. ",
-        "Méniel, P. (2015). Killing and Preparing Animals. In:  ed., A COMPANION TO THE ARCHAEOLOGY OF RELIGION IN THE ANCIENT WORLD. "
+        "Henig, M. (2003). Religion in Roman Britain. pp.1–275. "
        ]
       },
       {
@@ -1002,7 +1008,41 @@
        "location": " England, Northumberland, Kirknewton",
        "description": "",
        "bibliography": []
-      }
+      },
+      {
+        "site": "Great Dunmow",
+        "start": "350",
+        "end": "425",
+        "location": "England, Essex",
+        "description": "An unusually late constructed shrine of timber and turf. The shrine had a period of reconstruction in 390 - 400 CE involving the laying of a flint and tile platform.",
+        "bibliography": [
+          "Smith, A., (2008). The Fate of Pagan Temples in South-East Britain, in: Rudling, D. (Ed.), Ritual Landsacpes of South-East Britain.",
+          "Wickenden, (1988)."
+        ]
+       },
+       {
+        "site": "Picket Farm",
+        "start": "117",
+        "end": "378",
+        "location": "England, Dorset, South Perrot, Picket Lane, Picket Farm",
+        "description": "A Neolithic oval barrow which shows evidence for Roman period ritual activuty. Dating is primarily through coin depositons, the bulk dating from 260 to 378 but the earliest is from 117. Some Roman roof tiles were found, the excavator suggested the possibility of a Roman shrine but this was not discovered.",
+        "bibliography": [
+          "Picket Farm, Picket Lane, South Perrot, Dorset. Report on an Archaeological Fieldwalking Exercise and Evaluation, and an Assessment of the results, (2005). Wessex Archaeology."
+        ]
+       },
+       {
+        "site": "Ivy Chimneys",
+        "start": "-100",
+        "end": "425",
+        "location": "England, Essex, Witham, Ivy Chimneys",
+        "description": "The site is suggested to have activity beginning in the Late Iron Age with a timber-framed wattle and daub temple built in the later 3rd Century. There are several periods of activity and reconstruction lasting into the early 5th Century. Turner suggested that one of these phases was a church.",
+        "bibliography": [
+          "Smith, A., 2008. The Fate of Pagan Temples in Sount-East Britain during the late and post-Roman periods, in: Rudling, D. (Ed.), Ritual Landscapes of Roman South-East Britain.",
+          "Turner, 1999.",
+          "Green, 1999.",
+          "Rodwell, 1993."
+        ]
+       }
      ]
   }
   
