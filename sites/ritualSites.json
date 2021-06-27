@@ -1,14 +1,15 @@
 {
-    "description": "This is a file containing data on ritual sites of Britain & Ireland, currently holding dummy data.",
-    "name": "Ritual Sites of Britain & Ireland",
-    "sites": [
-      {
-       "site": "Aquae Sulis",
-       "start": "-50",
-       "end": "400",
-       "location": " England, Somerset, Bath, Abbey Churchyard",
-       "description": "An early Roman period temple set around a natural spring with an adjoining bath complex. There is some evidence to suggest that the spring had some ritual significance prior to the Roman structure, it has also been shown that the ritual use of the site continued strongly into the 4th Century with continued deposition of coins, defixiones, and modifications to the temple itself. Aquae Sulis is unique in that it is one of the few sites we have a contempory reference to in Solinus, De Mirabilibus Mundi, Capitula XXIIII.",
-       "bibliography": [
+  "description": "This is a file containing data on ritual sites of Britain & Ireland, currently holding dummy data.",
+  "name": "Ritual Sites of Britain & Ireland",
+  "sites": [
+    {
+      "index": 0,
+      "site": "Aquae Sulis",
+      "start": "-50",
+      "end": "400",
+      "location": " England, Somerset, Bath, Abbey Churchyard",
+      "description": "An early Roman period temple set around a natural spring with an adjoining bath complex. There is some evidence to suggest that the spring had some ritual significance prior to the Roman structure, it has also been shown that the ritual use of the site continued strongly into the 4th Century with continued deposition of coins, defixiones, and modifications to the temple itself. Aquae Sulis is unique in that it is one of the few sites we have a contempory reference to in Solinus, De Mirabilibus Mundi, Capitula XXIIII.",
+      "bibliography": [
         "McBurney, J., 2016. The Cult of Sulis-Minerva at Bath: The Religious Ritual of the Patron Goddess at Bath. Victoria University of Wellington.",
         "Cleary, S.E., 2015. The “end of the gods” in late Roman Britain. Gallia.",
         "Cunliffe, B., 2009. Roman Bath Discovered. The History Press.",
@@ -19,133 +20,142 @@
         "Gerrard, J., 2007. The Temple of Sulis Minerva, Bath and the end of Roman Britain. The Antiquaries Journal 87.",
         "Southern, P., 2015. The Story of Roman Bath. Amberley Publishing.",
         "Stewart, R.J., 1981. Waters of the Gap: Mythology of Aquae Sulis. Humanities Press Intl."
-
-       ]
-      },
-      {
-       "site": "Arthur's O'on",
-       "start": "83",
-       "end": "400",
-       "location": " Scotland, Stirlingshire, Stenhousemuir",
-       "description": "A beehive like Roman structure throught possibly to be a shrine to victory built in the wake of Agrocola's campaigns in Scotland. Nothing now stands of the structure as it was demolished in 1743.",
-       "bibliography": [
+      ]
+    },
+    {
+      "index": 1,
+      "site": "Arthur's O'on",
+      "start": "83",
+      "end": "400",
+      "location": " Scotland, Stirlingshire, Stenhousemuir",
+      "description": "A beehive like Roman structure throught possibly to be a shrine to victory built in the wake of Agrocola's campaigns in Scotland. Nothing now stands of the structure as it was demolished in 1743.",
+      "bibliography": [
         "Steer, K.A., (1976). MORE LIGHT ON ARTHUR’S O’ON. STUDIES IN ROMAN ARCHAEOLOGY FOR ANNE S. ROBERTSON 4.",
         "Steer, K.A., (1958). Arthur’s O’on: A lost shrine of Roman Britain.",
         "Tatton-Brown, T.W.T., (1980). Camelon, Arthur’s O’on and the Main Supply Base for the Antonine Wall. Britannia 11."
-        
-       ]
-      },
-      {
-       "site": "Ashwell",
-       "start": "43",
-       "end": "410",
-       "location": " England, Hetfordshire, Ashwell",
-       "description": "",
-       "bibliography": [
+      ]
+    },
+    {
+      "index": 2,
+      "site": "Ashwell",
+      "start": "43",
+      "end": "410",
+      "location": " England, Hetfordshire, Ashwell",
+      "description": "",
+      "bibliography": [
         "Jackson, R., Burleigh, G., (2018). Dea Senuna: Treasure, Cult and Ritual at Ashwell, Hertfordshire. British Museum.",
         "Richardson, I., (2012). PAS-9708E3: A ROMAN HOARD [WWW Document]. Portable Antiquities Scheme. URL https://finds.org.uk/database/artefacts/record/id/509533#1"
-       ]
-      },
-      {
-       "site": "Benwell Roman Temple",
-       "start": "100",
-       "end": "600",
-       "location": " England, Tyne and Wear, Newcastle-upon-Tyne, Broomridge Avenue",
-       "description": "We know the temple was destroyed sometime in the 2nd Century. The latest coin issue was dated to 161 - 180 and there is evidence of burnt roof tiles and timbers, however, there is evidence of continued use as a burial ground. If the suspected burial just to the west is to be included we can push it's use to the 6th or 7th Century.",
-       "bibliography": [
+      ]
+    },
+    {
+      "index": 3,
+      "site": "Benwell Roman Temple",
+      "start": "100",
+      "end": "600",
+      "location": " England, Tyne and Wear, Newcastle-upon-Tyne, Broomridge Avenue",
+      "description": "We know the temple was destroyed sometime in the 2nd Century. The latest coin issue was dated to 161 - 180 and there is evidence of burnt roof tiles and timbers, however, there is evidence of continued use as a burial ground. If the suspected burial just to the west is to be included we can push it's use to the 6th or 7th Century.",
+      "bibliography": [
         "Bidwell, P., n.d. HISTORY OF BENWELL ROMAN TEMPLE [Online]. English Heritage. URL https://www.english-heritage.org.uk/visit/places/benwell-roman-temple-hadrians-wall/history/",
         "Brewis, P., (1936). A cruciform brooch from Benwell, Newcastle upon Tyne. Archaeologia Aeliana, 4 13, 117–21.",
         "Collingwood, R.G., Wright, R.P., (1965). RIB no. 1329, in: The Roman Inscriptions of Britain, Vol 1: Inscriptions on Stone. Oxford.",
         "Jobey, G., Maxwell, D., (1957). A square-headed brooch from Benwell. Archaeologia Aeliana, 4 35.",
-        "Philips, E.J., (1977). fascicule 1: Corbridge, Hadrian’s Wall East of the North Tyne, in: Corpus Signorum Imperii Romani, Vol 1."       
-       ]
-      },
-      {
-       "site": "Brean Down",
-       "start": "340",
-       "end": "367",
-       "location": " England, Somerset, Brean Down",
-       "description": "",
-       "bibliography": [
+        "Philips, E.J., (1977). fascicule 1: Corbridge, Hadrian’s Wall East of the North Tyne, in: Corpus Signorum Imperii Romani, Vol 1."
+      ]
+    },
+    {
+      "index": 4,
+      "site": "Brean Down",
+      "start": "340",
+      "end": "367",
+      "location": " England, Somerset, Brean Down",
+      "description": "",
+      "bibliography": [
         "ApSimon. (1964). "
-       ]
-      },
-      {
-       "site": "Brigstock",
-       "start": "25",
-       "end": "400",
-       "location": " England, Northamptonshire, Brigstock",
-       "description": "",
-       "bibliography": [
+      ]
+    },
+    {
+      "index": 5,
+      "site": "Brigstock",
+      "start": "25",
+      "end": "400",
+      "location": " England, Northamptonshire, Brigstock",
+      "description": "",
+      "bibliography": [
         "Greenfield. (1963). ",
         "Taylor. (1957). ",
         "Green. (1976). "
-       ]
-      },
-      {
-       "site": "Chelmsford",
-       "start": "60",
-       "end": "402",
-       "location": " England, Essex, Chelmsford",
-       "description": "The earliest ritual activity recorded at Chelmsford begins in 60 AD and shows continuous activity until the early 5th. The latest coin issue found on the site dates from 388 - 402 AD with the distinct possibility of later activity. The sites demise is likely connected to the end of thRoman town in which it sat at the eastern entrance of. Wickenden suggests a dedication to Mars.",
-       "bibliography": [
+      ]
+    },
+    {
+      "index": 6,
+      "site": "Chelmsford",
+      "start": "60",
+      "end": "402",
+      "location": " England, Essex, Chelmsford",
+      "description": "The earliest ritual activity recorded at Chelmsford begins in 60 AD and shows continuous activity until the early 5th. The latest coin issue found on the site dates from 388 - 402 AD with the distinct possibility of later activity. The sites demise is likely connected to the end of thRoman town in which it sat at the eastern entrance of. Wickenden suggests a dedication to Mars.",
+      "bibliography": [
         "Smith, A., (2008). The Fate of Pagan Temples in South-East Britain, in: Rudling, D. (Ed.), Ritual Landsacpes of South-East Britain.",
         "Wickenden, (1992).",
         "Drury, (1988)."
-       ]
-      },
-      {
-       "site": "Farley Heath Roman Temple",
-       "start": "400",
-       "end": "450",
-       "location": " England, Surrey, Farley Heath",
-       "description": "There is earlier use noted but of unkown date.",
-       "bibliography": [
+      ]
+    },
+    {
+      "index": 7,
+      "site": "Farley Heath Roman Temple",
+      "start": "400",
+      "end": "450",
+      "location": " England, Surrey, Farley Heath",
+      "description": "There is earlier use noted but of unkown date.",
+      "bibliography": [
         "Bird. (2007). ",
         "Bird. (1996). ",
         "(1958). Guide to the Antiquities.",
         "Goodchild. (1938). "
-       ]
-      },
-      {
-       "site": "Frilford Shrine",
-       "start": "70",
-       "end": "499",
-       "location": " England, Berkshire, Frilford",
-       "description": "",
-       "bibliography": [
+      ]
+    },
+    {
+      "index": 8,
+      "site": "Frilford Shrine",
+      "start": "70",
+      "end": "499",
+      "location": " England, Berkshire, Frilford",
+      "description": "",
+      "bibliography": [
         "Kamash, Z., Gosden, C., Lock, G. (2010). Continuity and Religious Practices in Roman Britain: The Case of the Rural Religious Complex at Marcham/Frilford, Oxfordshire. "
-       ]
-      },
-      {
-       "site": "Gosbeck's Farm",
-       "start": "150",
-       "end": "399",
-       "location": " England, Essex, Birch",
-       "description": "",
-       "bibliography": []
-      },
-      {
-       "site": "Great Chesterford",
-       "start": "0",
-       "end": "400",
-       "location": " England, Essex, Uttlesford",
-       "description": "A substantial Romano-Celtic temple set within an extensive temenos, 1km east of the Roman town. The site shows some evidence of pre-invasion use in the early 1st century and shows continued ritual activity up to the the late 4th or early 5th century.",
-       "bibliography": [
+      ]
+    },
+    {
+      "index": 9,
+      "site": "Gosbeck's Farm",
+      "start": "150",
+      "end": "399",
+      "location": " England, Essex, Birch",
+      "description": "",
+      "bibliography": []
+    },
+    {
+      "index": 10,
+      "site": "Great Chesterford",
+      "start": "0",
+      "end": "400",
+      "location": " England, Essex, Uttlesford",
+      "description": "A substantial Romano-Celtic temple set within an extensive temenos, 1km east of the Roman town. The site shows some evidence of pre-invasion use in the early 1st century and shows continued ritual activity up to the the late 4th or early 5th century.",
+      "bibliography": [
         "Smith, A., (2008). The Fate of Pagan Temples in South-East Britain, in: Rudling, D. (Ed.), Ritual Landsacpes of South-East Britain.",
         "Kemble, (2001).",
         "Miller, (1995).",
         "Burnham, Wacher, (1990).",
         "Collins, (1978)."
-       ]
-      },
-      {
-       "site": "Hayling Island",
-       "start": "-50",
-       "end": "70",
-       "location": " England, Hampshire, Hayling Island",
-       "description": "",
-       "bibliography": [
+      ]
+    },
+    {
+      "index": 11,
+      "site": "Hayling Island",
+      "start": "-50",
+      "end": "70",
+      "location": " England, Hampshire, Hayling Island",
+      "description": "",
+      "bibliography": [
         "King, A. (1979). The Hayling Island temple: third interim report on the excavation of the Iron Age and Roman temple 1976-78. ",
         "Katrina-Kay Sepulveda, A. (2016). An Archaeology of Temple Assemblages and Social Practice in Early South-Eastern Roman Britain. ",
         "King, A. (2014). The Pre-Roman Cult Site at Hayling Island, Hampshire, GB: The Problem of Characterizing an Anonymous Deity. ",
@@ -173,105 +183,116 @@
         "Henig, M. (2010). Attitudes to the Art of Roman Britain. In:  ed., THE Art of ROMAN BRITAIN. ",
         "Cleary, S. (2015). The ‘end of the gods' in late Roman Britain. ",
         "Henig, M. (2003). Religion in Roman Britain. pp.1–275. "
-       ]
-      },
-      {
-       "site": "Hockwold Temple",
-       "start": "100",
-       "end": "400",
-       "location": " England, Norfolk, Hockwold cum Wilton",
-       "description": "",
-       "bibliography": []
-      },
-      {
-       "site": "Jordan Hill",
-       "start": "300",
-       "end": "399",
-       "location": " England, Dorset, Weymouth, Bowleaze Coveway",
-       "description": "",
-       "bibliography": []
-      },
-      {
-       "site": "Lamyatt",
-       "start": "200",
-       "end": "410",
-       "location": " England, Somerset, Mendip, Lamyatt",
-       "description": "",
-       "bibliography": []
-      },
-      {
-       "site": "Lowbury Hill",
-       "start": "45",
-       "end": "65",
-       "location": " England, Oxfordshire, Wallingford",
-       "description": "",
-       "bibliography": [
+      ]
+    },
+    {
+      "index": 12,
+      "site": "Hockwold Temple",
+      "start": "100",
+      "end": "400",
+      "location": " England, Norfolk, Hockwold cum Wilton",
+      "description": "",
+      "bibliography": []
+    },
+    {
+      "index": 13,
+      "site": "Jordan Hill",
+      "start": "300",
+      "end": "399",
+      "location": " England, Dorset, Weymouth, Bowleaze Coveway",
+      "description": "",
+      "bibliography": []
+    },
+    {
+      "index": 14,
+      "site": "Lamyatt",
+      "start": "200",
+      "end": "410",
+      "location": " England, Somerset, Mendip, Lamyatt",
+      "description": "",
+      "bibliography": []
+    },
+    {
+      "index": 15,
+      "site": "Lowbury Hill",
+      "start": "45",
+      "end": "65",
+      "location": " England, Oxfordshire, Wallingford",
+      "description": "",
+      "bibliography": [
         "Atkinson. "
-       ]
-      },
-      {
-       "site": "Lydney Temple",
-       "start": "364",
-       "end": "",
-       "location": " England, Gloucstershire, Lydney Park",
-       "description": "",
-       "bibliography": []
-      },
-      {
-       "site": "Maiden Castle",
-       "start": "350",
-       "end": "499",
-       "location": " England, Dorset, Dorchester, Maiden Castle Road",
-       "description": "",
-       "bibliography": [
+      ]
+    },
+    {
+      "index": 16,
+      "site": "Lydney Temple",
+      "start": "364",
+      "end": "",
+      "location": " England, Gloucstershire, Lydney Park",
+      "description": "",
+      "bibliography": []
+    },
+    {
+      "index": 17,
+      "site": "Maiden Castle",
+      "start": "350",
+      "end": "499",
+      "location": " England, Dorset, Dorchester, Maiden Castle Road",
+      "description": "",
+      "bibliography": [
         "Booth, T., Madgwick, R. (2016). New evidence for diverse secondary burial practices in Iron Age Britain: A histological case study. Journal of Archaeological Science. [online] Volume 67, Available at: URL http://dx.doi.org/10.1016/j.jas.2016.01.010. "
-       ]
-      },
-      {
-       "site": "Nettleton Shrub",
-       "start": "69",
-       "end": "399",
-       "location": " England, Wiltshire, Nettleton",
-       "description": "",
-       "bibliography": []
-      },
-      {
-       "site": "Old Harlow",
-       "start": "250",
-       "end": "399",
-       "location": " England, Essex, Old Harlow",
-       "description": "",
-       "bibliography": [
+      ]
+    },
+    {
+      "index": 18,
+      "site": "Nettleton Shrub",
+      "start": "69",
+      "end": "399",
+      "location": " England, Wiltshire, Nettleton",
+      "description": "",
+      "bibliography": []
+    },
+    {
+      "index": 19,
+      "site": "Old Harlow",
+      "start": "250",
+      "end": "399",
+      "location": " England, Essex, Old Harlow",
+      "description": "",
+      "bibliography": [
         "France., Gobel. (1985). "
-       ]
-      },
-      {
-       "site": "Cadbury Castle / Henley Wood",
-       "start": "200",
-       "end": "300",
-       "location": " England, Somerset",
-       "description": "",
-       "bibliography": []
-      },
-      {
-       "site": "Uley Shrine",
-       "start": "-199",
-       "end": "799",
-       "location": " England, Gloucestershire, Uley",
-       "description": "",
-       "bibliography": [
+      ]
+    },
+    {
+      "index": 20,
+      "site": "Cadbury Castle / Henley Wood",
+      "start": "200",
+      "end": "300",
+      "location": " England, Somerset",
+      "description": "",
+      "bibliography": []
+    },
+    {
+      "index": 21,
+      "site": "Uley Shrine",
+      "start": "-199",
+      "end": "799",
+      "location": " England, Gloucestershire, Uley",
+      "description": "",
+      "bibliography": [
         "Cleary, S. (2015). The ‘end of the gods' in late Roman Britain. ",
         "Woodward., Leach. (1993). The Uley Shrines: Excavation of a Ritual Complex on West Hill, Uley, Gloucestershire. ",
         "Sparey-Green. (1987). "
-       ]
-      },
-      {
-       "site": "Wanborough Temple",
-       "start": "50",
-       "end": "399",
-       "location": " England, Surrey, Guildford, Wanborough",
-       "description": "A ritual site showing activity from the mid 1st to the late 4th CE. Earliest phases show little evidence for structure, but a later circular temple was built before it collapsed and a Romano-British temple was constructed just to the South. It is notable for the priestly regalia found associated with the site.",
-       "bibliography": [
+      ]
+    },
+    {
+      "index": 22,
+      "site": "Wanborough Temple",
+      "start": "50",
+      "end": "399",
+      "location": " England, Surrey, Guildford, Wanborough",
+      "description": "A ritual site showing activity from the mid 1st to the late 4th CE. Earliest phases show little evidence for structure, but a later circular temple was built before it collapsed and a Romano-British temple was constructed just to the South. It is notable for the priestly regalia found associated with the site.",
+      "bibliography": [
         "Alaimo, K.-K.S., 2016. An Archaeology of Temple Assemblages and Social Practice in Early South-Eastern Roman Britain.",
         "Bird, 1996. Roman objects from Wanborough: a supplementary note. Surrey Archaeological Collections.",
         "Esposito, A., 2019. Performing the Sacra: Priestly Roles and Their Organisation in Roman Britain. Archaeopress Publishing Ltd.",
@@ -284,60 +305,64 @@
         "Williams, 2007. Green Lane, Wanborough: excavations at the Roman religious site 1999. Surrey Archaeological Collections.",
         "Williams, Bird, J., Poulton, R., 2007. Farley Heath and Wanborough Roman Temples, Surrey Archaeological Collections: Relating to the History and Antiquities of the county.",
         "Williams, D., 2008. The Wanborough Temple Site, in: Rudling, D. (Ed.), Ritual Landscapes of Roman South-East Britain."
-       ]
-      },
-      {
-       "site": "Weycock Hill",
-       "start": "300",
-       "end": "499",
-       "location": " England, Berkshire, Reading",
-       "description": "",
-       "bibliography": []
-      },
-      {
-        "site": "Great Dunmow",
-        "start": "350",
-        "end": "425",
-        "location": "England, Essex",
-        "description": "An unusually late constructed shrine of timber and turf. The shrine had a period of reconstruction in 390 - 400 CE involving the laying of a flint and tile platform.",
-        "bibliography": [
-          "Smith, A., (2008). The Fate of Pagan Temples in South-East Britain, in: Rudling, D. (Ed.), Ritual Landsacpes of South-East Britain.",
-          "Wickenden, (1988)."
-        ]
-       },
-       {
-        "site": "Picket Farm",
-        "start": "117",
-        "end": "378",
-        "location": "England, Dorset, South Perrot, Picket Lane, Picket Farm",
-        "description": "A Neolithic oval barrow which shows evidence for Roman period ritual activuty. Dating is primarily through coin depositons, the bulk dating from 260 to 378 but the earliest is from 117. Some Roman roof tiles were found, the excavator suggested the possibility of a Roman shrine but this was not discovered.",
-        "bibliography": [
-          "Picket Farm, Picket Lane, South Perrot, Dorset. Report on an Archaeological Fieldwalking Exercise and Evaluation, and an Assessment of the results, (2005). Wessex Archaeology."
-        ]
-       },
-       {
-        "site": "Ivy Chimneys",
-        "start": "-100",
-        "end": "425",
-        "location": "England, Essex, Witham, Ivy Chimneys",
-        "description": "The site is suggested to have activity beginning in the Late Iron Age with a timber-framed wattle and daub temple built in the later 3rd Century. There are several periods of activity and reconstruction lasting into the early 5th Century. Turner suggested that one of these phases was a church.",
-        "bibliography": [
-          "Smith, A., 2008. The Fate of Pagan Temples in Sount-East Britain during the late and post-Roman periods, in: Rudling, D. (Ed.), Ritual Landscapes of Roman South-East Britain.",
-          "Turner, 1999.",
-          "Green, 1999.",
-          "Rodwell, 1993."
-        ]
-       },
-       {
-        "site": "Drapers' Gardens Well",
-        "start": "375",
-        "end": "425",
-        "location": "England, The City of London, Drapers' Gardens",
-        "description": "A late 4th to early 5th century well that shows evidence for a single or short termed instance of ritual deposition of twenty copper-alloy, lead-alloy and iron vessels, as well as coins, an iron bucket binding and unusally the partially articulated remains of a juvenile red deer.",
-        "bibliography": [
-          "Gerrard, J., 2011. WELLS AND BELIEF SYSTEMS AT THE END OF ROMAN BRITAIN: A CASE STUDY FROM ROMAN LONDON. THE ARCHAEOLOGY OF LATE ANTIQUE ‘PAGANISM’ 7."
-        ]
-       }
-     ]
-  }
-  
+      ]
+    },
+    {
+      "index": 23,
+      "site": "Weycock Hill",
+      "start": "300",
+      "end": "499",
+      "location": " England, Berkshire, Reading",
+      "description": "",
+      "bibliography": []
+    },
+    {
+      "index": 24,
+      "site": "Great Dunmow",
+      "start": "350",
+      "end": "425",
+      "location": "England, Essex",
+      "description": "An unusually late constructed shrine of timber and turf. The shrine had a period of reconstruction in 390 - 400 CE involving the laying of a flint and tile platform.",
+      "bibliography": [
+        "Smith, A., (2008). The Fate of Pagan Temples in South-East Britain, in: Rudling, D. (Ed.), Ritual Landsacpes of South-East Britain.",
+        "Wickenden, (1988)."
+      ]
+    },
+    {
+      "index": 25,
+      "site": "Picket Farm",
+      "start": "117",
+      "end": "378",
+      "location": "England, Dorset, South Perrot, Picket Lane, Picket Farm",
+      "description": "A Neolithic oval barrow which shows evidence for Roman period ritual activuty. Dating is primarily through coin depositons, the bulk dating from 260 to 378 but the earliest is from 117. Some Roman roof tiles were found, the excavator suggested the possibility of a Roman shrine but this was not discovered.",
+      "bibliography": [
+        "Picket Farm, Picket Lane, South Perrot, Dorset. Report on an Archaeological Fieldwalking Exercise and Evaluation, and an Assessment of the results, (2005). Wessex Archaeology."
+      ]
+    },
+    {
+      "index": 26,
+      "site": "Ivy Chimneys",
+      "start": "-100",
+      "end": "425",
+      "location": "England, Essex, Witham, Ivy Chimneys",
+      "description": "The site is suggested to have activity beginning in the Late Iron Age with a timber-framed wattle and daub temple built in the later 3rd Century. There are several periods of activity and reconstruction lasting into the early 5th Century. Turner suggested that one of these phases was a church.",
+      "bibliography": [
+        "Smith, A., 2008. The Fate of Pagan Temples in Sount-East Britain during the late and post-Roman periods, in: Rudling, D. (Ed.), Ritual Landscapes of Roman South-East Britain.",
+        "Turner, 1999.",
+        "Green, 1999.",
+        "Rodwell, 1993."
+      ]
+    },
+    {
+      "index": 27,
+      "site": "Drapers' Gardens Well",
+      "start": "375",
+      "end": "425",
+      "location": "England, The City of London, Drapers' Gardens",
+      "description": "A late 4th to early 5th century well that shows evidence for a single or short termed instance of ritual deposition of twenty copper-alloy, lead-alloy and iron vessels, as well as coins, an iron bucket binding and unusally the partially articulated remains of a juvenile red deer.",
+      "bibliography": [
+        "Gerrard, J., 2011. WELLS AND BELIEF SYSTEMS AT THE END OF ROMAN BRITAIN: A CASE STUDY FROM ROMAN LONDON. THE ARCHAEOLOGY OF LATE ANTIQUE ‘PAGANISM’ 7."
+      ]
+    }
+  ]
+}
