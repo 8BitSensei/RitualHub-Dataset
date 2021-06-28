@@ -227,10 +227,12 @@
       "index": 16,
       "site": "Lydney Temple",
       "start": "364",
-      "end": "",
+      "end": "Unclear",
       "location": " England, Gloucstershire, Lydney Park",
       "description": "",
-      "bibliography": []
+      "bibliography": [
+        "Wheeler., Wheeler., 1932"
+      ]
     },
     {
       "index": 17,
@@ -250,7 +252,9 @@
       "end": "399",
       "location": " England, Wiltshire, Nettleton",
       "description": "",
-      "bibliography": []
+      "bibliography": [
+        "Wedlake, WJ., (1982), The shrine of Apollo at Nettleon, Wilts"
+      ]
     },
     {
       "index": 19,
@@ -362,6 +366,19 @@
       "description": "A late 4th to early 5th century well that shows evidence for a single or short termed instance of ritual deposition of twenty copper-alloy, lead-alloy and iron vessels, as well as coins, an iron bucket binding and unusally the partially articulated remains of a juvenile red deer.",
       "bibliography": [
         "Gerrard, J., 2011. WELLS AND BELIEF SYSTEMS AT THE END OF ROMAN BRITAIN: A CASE STUDY FROM ROMAN LONDON. THE ARCHAEOLOGY OF LATE ANTIQUE ‘PAGANISM’ 7."
+      ]
+    },
+    {
+      "index": 28,
+      "site": "Pagans Hill",
+      "start": "275",
+      "end": "Early 5th CE",
+      "location": "Pagans Hill, England, Somerset, Pagans Hill" ,
+      "description": "A double octagonal temple built in the late 3rd Century CE, the original building, and a second collapsed before the final structure was built in the late 4th century CE. The last building collapsed some time in the 5th century CE. There is pre-roman use noted and post-roman material from the 7th century was found in the adjacent well.",
+      "bibliography": [
+        "Wedlake, WJ., (1982), The shrine of Apollo at Nettleon, Wilts",
+        "Smith, A., Rudling, D., (2008), The Fate of Pagan Temples in South-East Britain",
+        "Cleary, SE., (2014), The 'End of the Gods' in Late Roman Britain"
       ]
     }
   ]
