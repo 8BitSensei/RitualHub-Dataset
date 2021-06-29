@@ -1,6 +1,7 @@
 {
   "description": "This is a file containing data on ritual sites of Britain & Ireland, currently holding dummy data.",
   "name": "Ritual Sites of Britain & Ireland",
+
   "sites": [
     {
       "index": 0,
@@ -372,7 +373,7 @@
       "index": 28,
       "site": "Pagans Hill",
       "start": "275",
-      "end": "Early 5th CE",
+      "end": "early 5th CE",
       "location": "Pagans Hill, England, Somerset, Pagans Hill" ,
       "description": "A double octagonal temple built in the late 3rd Century CE, the original building, and a second collapsed before the final structure was built in the late 4th century CE. The last building collapsed some time in the 5th century CE. There is pre-roman use noted and post-roman material from the 7th century was found in the adjacent well.",
       "bibliography": [
@@ -386,5 +387,22 @@
         "Cleary, SE., (2014), The 'End of the Gods' in Late Roman Britain"
       ]
     }
-  ]
+  ],
+  "dates":{
+    "early 1st CE": "0",
+    "mid 1st CE": "25",
+    "late 1st CE": "75",
+    "early 2nd CE": "100",
+    "mid 2nd CE": "125",
+    "late 2nd CE": "175",
+    "early 3rd CE": "200",
+    "mid 3rd CE": "225",
+    "late 3rd CE": "275",
+    "early 4th CE": "300",
+    "mid 4th CE": "325",
+    "late 4th CE": "375",
+    "early 5th CE": "400",
+    "mid 5th CE": "425",
+    "late 5th CE": "475"
+  }
 }
