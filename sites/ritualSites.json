@@ -404,6 +404,7 @@
     }
   ],
   "dates":{
+    "unknown": "",
     "early 1st CE": "0",
     "mid 1st CE": "25",
     "late 1st CE": "75",
