@@ -403,30 +403,22 @@
       ]
     },
     {
-      "index": 30,
-      "site": "Richborough Castle",
-      "start": "late 3rd CE",
-      "end": "late 6th CE",
-      "location": "Richborough Castle, England, Kent, Richborough" ,
-      "description": "Richborough Castle began as a temporary millitary camp for Plautius' invasion force in 43 AD, the only settlement prior to this was an Iron Agen farmstead that was abandoned around 100 BC. At the end of the first century AD timber structures were cleared away and the site became a more permanent civilian settlement with an associated port. In the late third century AD the site again became a millitary establishment, the central part of the town was leveled and the monument constructed to celebrate the conquest of Britain was converted into a signal station, this signal station was eventually leveled to construct a shore fort. Around this time, it is suggested that the two Roman-Celtic temples to the south were constructed. By the end of the fourth century the fort was no longer garrisoned by regular troops, though the fort continued to be used as a settlement into the fifth century where it is noted in the Notitia Dignitatum. Around this time the temples would have already collapsed but continued to be used as two deposits were found inserted into the wall, it is around this same time that the proposed church associated with the baptismal font was constructed. It is unsure when these structures stopped being used but the fort was abandoned during the later fifth and sixth centures.",
+      "index": 31,
+      "site": "Sharnbrook",
+      "start": "early 1st BCE",
+      "end": "unknown",
+      "location": "England, Bedfordshire, Sharnbrook" ,
+      "description": "A possible Late Iron Age and Roman temple, interpreted entirely through aerial photogrophy of crop-markings. There appear to be too overlapping features, a circular enclosure and a square enclosure enclosing a smaller square. It's possible the circular enclosure is a Late Iron Age shrine and the square one a Romano-Celtic temple.",
       "bibliography": [
-        "T. Wilmott and S. Philip, ‘The Plan of the Saxon Shore Fort at Richborough’, _Britannia_, vol. 51, pp. 147–174, 2020.",
-        "T. Wilmott and J. Tibber, ‘Richborough, a Roman and medieval port!’, _Research News_, vol. 12, pp. 20–22, 2009.",
-        "A. Smith, ‘The Fate of Pagan Temples in South-East Britain’, in _Ritual Landsacpes of South-East Britain_, D. Rudling, Ed. 2008.",
-        "T. Wilmott, ‘Richborough’, _Kent Archaeological Society Newsletter_, vol. 53, pp. 12–13, 2002.",
-        "A Saxon Shore fort, Roman port and associated remains at Richborough’, 1981. https://historicengland.org.uk/listing/the-list/list-entry/1014642",
-        "P. D. C. Brown, ‘The church at Richborough’, _Britannia_, vol. 2, pp. 225–231, 1971.",
-        "B. Cunliffe, ‘Fifth Report on the Excavations of the Roman Fort at Richborough, Kent’, pp. 98–99, 1968.",
-        "Bushe-Fox, ‘Fifth report on the excavations of the Roman fort at Richborough, Kent’, 1968.",
-        "Bushe-Fox, ‘Fourth report on the excavations of the Roman fort at Richborough, Kent.’, 1949",
-        "Bushe-Fox, ‘Third report on the excavations of the Roman fort at Richborough, Kent’, 1932",
-        "Bushe-Fox, ‘Some Notes on Roman Coast Defences’, 1932",
-        "Bushe-Fox, ‘Second report on the excavations of the Roman fort at Richborough, Kent’, 1928"
+        "MONUMENT NO. 1410831, https://www.pastscape.org.uk/hob.aspx?hob_id=1410831&sort=2&type=TEMPLE&rational=a&class1=11&period=43|410|ROMAN|38|0&county=None&district=None&parish=None&place=&yearfrom=43&yearto=410&recordsperpage=60&source=text&rtype=&rnumber="
       ]
     }
   ],
   "dates":{
     "unknown": "",
+    "early 1st BCE": "-100",
+    "mid 1st BCE": "-75",
+    "late 1st BCE": "-25",
     "early 1st CE": "0",
     "mid 1st CE": "25",
     "late 1st CE": "75",
